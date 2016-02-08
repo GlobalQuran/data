@@ -6239,10 +6239,12 @@ mina {lojin~api wa{ln~aAsi
 #=====================================================================
 #
 #  Name: Buck
-#  Translator: 
+#  Translator: Buck
 #  Language: Arabic
 #  ID: quran-buck
 #  Last Update: March 1, 2012
 #  Source: GlobalQuran.com
+#  version: 4.5
+#  status: pending
 #
 #=====================================================================

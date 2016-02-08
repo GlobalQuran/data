@@ -6239,7 +6239,7 @@
 #=====================================================================
 #
 #  Name: Tajweed
-#  Translator: 
+#  Translator: Tajweed
 #  Language: Arabic
 #  ID: quran-tajweed
 #  Last Update: Oct 29, 2011

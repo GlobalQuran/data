@@ -6239,7 +6239,7 @@
 #=====================================================================
 #
 #  Name: Simple Clean
-#  Translator:  
+#  Translator: Simple Clean
 #  Language: Arabic
 #  ID: quran-simple-clean
 #  Last Update: June 4, 2010

@@ -6239,7 +6239,7 @@
 #=====================================================================
 #
 #  Name: Simple Enhanced
-#  Translator:  
+#  Translator: Simple Enhanced
 #  Language: Arabic
 #  ID: quran-simple-enhanced
 #  Last Update: June 4, 2010

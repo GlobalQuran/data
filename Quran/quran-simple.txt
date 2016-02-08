@@ -6239,7 +6239,7 @@
 #=====================================================================
 #
 #  Name: Simple
-#  Translator: 
+#  Translator: Simple
 #  Language: Arabic
 #  ID: quran-simple
 #  Last Update: June 4, 2010

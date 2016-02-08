@@ -6239,7 +6239,7 @@
 #=====================================================================
 #
 #  Name: Uthmani Minimal
-#  Translator:  
+#  Translator: Uthmani Minimal
 #  Language: Arabic
 #  ID: quran-uthmani-min
 #  Last Update: June 4, 2010
