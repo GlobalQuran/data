@@ -6239,7 +6239,7 @@
 #=====================================================================
 #
 #  Name: Simple Minimal
-#  Translator:  
+#  Translator: Simple Minimal
 #  Language: Arabic
 #  ID: quran-simple-min
 #  Last Update: June 4, 2010

@@ -6238,11 +6238,13 @@ mina⚓From⚓P|LEM:min★{lojin~api⚓the jinn⚓ N|LEM:jin~ap|ROOT:jnn|F|GEN�
 
 #=====================================================================
 #
-#  Name: Corpus-QD
-#  Translator: 
+#  Name: Corpus
+#  Translator: Corpus
 #  Language: Arabic
 #  ID: quran-corpus-qd
 #  Last Update: Feburary 18, 2013
 #  Source: GlobalQuran.com
+#  version: 4.5
+#  status: pending
 #
 #=====================================================================

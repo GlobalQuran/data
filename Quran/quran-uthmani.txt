@@ -6239,7 +6239,7 @@
 #=====================================================================
 #
 #  Name: Uthamani
-#  Translator:  
+#  Translator: Uthamani
 #  Language: Arabic
 #  ID: quran-uthmani
 #  Last Update: June 4, 2010

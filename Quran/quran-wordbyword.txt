@@ -6239,7 +6239,7 @@
 #=====================================================================
 #
 #  Name: Word By Word
-#  Translator: 
+#  Translator: Word By Word
 #  Language: Arabic
 #  ID: quran-wordbyword
 #  Last Update: Oct 18, 2011

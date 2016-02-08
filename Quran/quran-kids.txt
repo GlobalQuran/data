@@ -6239,10 +6239,10 @@
 #=====================================================================
 #
 #  Name: Kids
-#  Translator: 
+#  Translator: Kids
 #  Language: Arabic
 #  ID: quran-kids
 #  Last Update: Oct 18, 2011
-#  Source: ---
+#  Source: GlobalQuran.com
 #
 #=====================================================================
