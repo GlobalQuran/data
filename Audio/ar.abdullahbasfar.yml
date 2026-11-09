@@ -1,0 +1,28 @@
+# Audio reciter ar.abdullahbasfar. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.abdullahbasfar
+name: Abdullah Basfar
+language: Arabic
+status: active
+default: no
+variants:
+  - format: mp3
+    kbs: 32
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Abdullah_Basfar_32kbps/"
+    audhubillah: no
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Abdullah_Basfar_64kbps/"
+    audhubillah: no
+  - format: mp3
+    kbs: 192
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Abdullah_Basfar_192kbps/"
+    audhubillah: yes

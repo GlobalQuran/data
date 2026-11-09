@@ -1,0 +1,28 @@
+# Audio reciter ar.minshawimujawwad. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.minshawimujawwad
+name: Minshawy (Mujawwad)
+language: Arabic
+status: active
+default: no
+variants:
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: incomplete
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Minshawy_Mujawwad_64kbps/"
+    audhubillah: yes
+  - format: mp3
+    kbs: 192
+    mode: versebyverse
+    status: incomplete
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Minshawy_Mujawwad_192kbps/"
+    audhubillah: yes
+  - format: ogg
+    kbs: 64
+    mode: versebyverse
+    status: active
+    source: QuranicAudio.com
+    source_url: "http://download.quranicaudio.com/verses/Minshawi/Mujawwad/ogg/"
+    audhubillah: yes

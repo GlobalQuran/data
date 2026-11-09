@@ -1,0 +1,15 @@
+# Audio reciter zh.chinese. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: zh.chinese
+name: Chinese
+native_name: "中文"
+language: Chinese
+status: active
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: active
+    source: AllahsQuran.com
+    source_url: "http://audio.allahsquran.com/vbv/chinese/"
+    audhubillah: no

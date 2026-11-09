@@ -1,0 +1,14 @@
+# Audio reciter ur.khan. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ur.khan
+name: Shamshad Ali Khan
+language: Urdu
+status: active
+default: no
+variants:
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: active
+    source: AllahsQuran.com
+    source_url: "http://audio.allahsquran.com/vbv/urdu/khan/"
+    audhubillah: no
