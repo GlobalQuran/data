@@ -1,0 +1,21 @@
+# Audio reciter ar.muhammadjibreel. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.muhammadjibreel
+name: Muhammad Jibreel
+language: Arabic
+status: active
+default: no
+variants:
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: incomplete
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Muhammad_Jibreel_64kbps/"
+    audhubillah: yes
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Muhammad_Jibreel_128kbps/"
+    audhubillah: yes

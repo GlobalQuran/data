@@ -1,0 +1,28 @@
+# Audio reciter ar.hanirifai. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.hanirifai
+name: Hani Rifai
+language: Arabic
+status: active
+default: no
+variants:
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Hani_Rifai_64kbps/"
+    audhubillah: yes
+  - format: mp3
+    kbs: 192
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Hani_Rifai_192kbps/"
+    audhubillah: no
+  - format: ogg
+    kbs: 64
+    mode: versebyverse
+    status: active
+    source: QuranicAudio.com
+    source_url: "http://download.quranicaudio.com/verses/Rifai/ogg/"
+    audhubillah: no

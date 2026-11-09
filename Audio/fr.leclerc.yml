@@ -1,0 +1,15 @@
+# Audio reciter fr.leclerc. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: fr.leclerc
+name: Youssouf Leclerc
+native_name: Youssouf Leclerc
+language: French
+status: active
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: active
+    source: AllahsQuran.com
+    source_url: "http://audio.allahsquran.com/vbv/french/leclerc/"
+    audhubillah: no

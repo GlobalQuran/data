@@ -1,0 +1,28 @@
+# Audio reciter ar.abdulbasitmurattal. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.abdulbasitmurattal
+name: Abdul Basit
+language: Arabic
+status: active
+default: no
+variants:
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Abdul_Basit_Murattal_64kbps/"
+    audhubillah: yes
+  - format: mp3
+    kbs: 192
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Abdul_Basit_Murattal_192kbps/"
+    audhubillah: yes
+  - format: ogg
+    kbs: 64
+    mode: versebyverse
+    status: active
+    source: QuranicAudio.com
+    source_url: "http://download.quranicaudio.com/verses/AbdulBaset/Murattal/ogg/"
+    audhubillah: yes

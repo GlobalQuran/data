@@ -1,0 +1,7 @@
+# Audio reciter ar.mustafaismail. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.mustafaismail
+name: Mustafa Ismail
+language: Arabic
+status: incomplete
+default: no
+variants: []   # no file list was recorded for this reciter in the old database

@@ -1,0 +1,14 @@
+# Audio reciter ar.ibrahimakhbar. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.ibrahimakhbar
+name: Ibrahim Akhdar
+language: Arabic
+status: active
+default: no
+variants:
+  - format: mp3
+    kbs: 32
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Ibrahim_Akhdar_32kbps/"
+    audhubillah: no

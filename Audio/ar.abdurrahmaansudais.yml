@@ -1,0 +1,28 @@
+# Audio reciter ar.abdurrahmaansudais. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.abdurrahmaansudais
+name: Abdurrahmaan As-Sudais
+language: Arabic
+status: active
+default: no
+variants:
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Abdurrahmaan_As-Sudais_64kbps/"
+    audhubillah: yes
+  - format: mp3
+    kbs: 192
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/"
+    audhubillah: yes
+  - format: ogg
+    kbs: 64
+    mode: versebyverse
+    status: active
+    source: QuranicAudio.com
+    source_url: "http://download.quranicaudio.com/verses/Sudais/ogg/"
+    audhubillah: yes

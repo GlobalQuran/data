@@ -1,0 +1,21 @@
+# Audio reciter ar.ahmedajamy. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.ahmedajamy
+name: Ahmed ibn Ali al-Ajamy
+language: Arabic
+status: active
+default: no
+variants:
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Ahmed_ibn_Ali_al-Ajamy_64kbps_QuranExplorer.Com/"
+    audhubillah: yes
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Ahmed_ibn_Ali_al-Ajamy_128kbps_ketaballah.net/"
+    audhubillah: no

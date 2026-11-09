@@ -1,0 +1,21 @@
+# Audio reciter ar.mohammadtablaway. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.mohammadtablaway
+name: Mohammad al Tablaway
+language: Arabic
+status: incomplete
+default: no
+variants:
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Mohammad_al_Tablaway_64kbps/"
+    audhubillah: yes
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Mohammad_al_Tablaway_128kbps/"
+    audhubillah: yes

@@ -1,0 +1,21 @@
+# Audio reciter ar.abdulbasitmujawwad. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.abdulbasitmujawwad
+name: Abdul Basit (Mujawwad)
+language: Arabic
+status: active
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/"
+    audhubillah: yes
+  - format: ogg
+    kbs: 64
+    mode: versebyverse
+    status: active
+    source: QuranicAudio.com
+    source_url: "http://download.quranicaudio.com/verses/AbdulBaset/Mujawwad/ogg/"
+    audhubillah: yes

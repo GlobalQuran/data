@@ -1,0 +1,14 @@
+# Audio reciter fa.hedayatfarfooladvand. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: fa.hedayatfarfooladvand
+name: Fooladvand - Hedayatfar
+language: Persian
+status: active
+default: yes
+variants:
+  - format: mp3
+    kbs: 40
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/translations/Fooladvand_Hedayatfar_40Kbps/"
+    audhubillah: no

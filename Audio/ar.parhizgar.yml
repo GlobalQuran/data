@@ -1,0 +1,14 @@
+# Audio reciter ar.parhizgar. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.parhizgar
+name: Parhizgar
+language: Arabic
+status: active
+default: no
+variants:
+  - format: mp3
+    kbs: 48
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/Parhizgar_48kbps/"
+    audhubillah: no

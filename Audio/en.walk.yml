@@ -1,0 +1,14 @@
+# Audio reciter en.walk. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: en.walk
+name: Ibrahim Walk
+language: English
+status: active
+default: no
+variants:
+  - format: mp3
+    kbs: 192
+    mode: versebyverse
+    status: active
+    source: VerseByVerseQuran.com
+    source_url: "http://www.everyayah.com/data/English/Ibrahim_Walk_192kbps_TEST/"
+    audhubillah: no
