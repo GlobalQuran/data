@@ -6243,7 +6243,7 @@ mine-lcinneti vennâs.
 #  Translator: Muhammet Abay
 #  Language: Turkish
 #  ID: tr.transliteration
-#  Last Update: September 15, 2010
+#  Last Update: September 16, 2010
 #  Source: Tanzil.net
 #
 #=====================================================================

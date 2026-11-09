@@ -55,3 +55,41 @@ Following is the example on how it should look like in the end of the data file
 ```
 
 
+
+
+Audio
+-----
+
+The audio files themselves live in the audio bucket (`audio.globalquran.com`), not here. This folder holds **one small YAML file per reciter** (`Audio/<id>.yml`, id like `ar.alafasy` = language code + reciter, lower case) that describes it and lists every variant that exists. Pushing a change creates or updates the reciter in the database. `#` comments are allowed and ignored.
+
+```yaml
+id: ar.alafasy                  # must match the file name
+name: Mishary Alafasy           # English name
+native_name: مشاري العفاسي       # optional
+language: Arabic                # for people; the language code is the start of the id
+description: Kuwaiti reciter... # optional, free text about the reciter
+status: draft                   # only used when the reciter is new: draft | active | incomplete | blocked (the admin changes it afterwards)
+default: no                     # only used when new
+variants:                       # one entry per format / bitrate / mode that exists
+  - format: mp3                 # mp3 | ogg
+    kbs: 128
+    mode: versebyverse          # versebyverse (default) | surahbysurah | juzbyjuz
+    status: active              # only used when this variant is new
+    source: VerseByVerseQuran.com        # optional: where the files came from
+    source_url: https://example.com/...  # optional
+    audhubillah: yes            # verse files: file 0 (a'udhu billah) exists
+    path: ar.alafasy/mp3/128kbs/         # optional: folder in the bucket (default below)
+    timing:                     # optional, reserved for ayah/word timestamps (not processed yet)
+      ayah: ar.alafasy/timing/ayah/
+      word: ar.alafasy/timing/word/
+```
+
+Where the files are in the bucket (default `path`):
+
+| mode | folder | file names |
+|---|---|---|
+| `versebyverse` | `<id>/<format>/<kbs>kbs/` | `0` (a'udhu billah) and `1`..`6236` (global verse number), e.g. `1.mp3` |
+| `surahbysurah` | `<id>/<format>/<kbs>kbs/surah/` | `1`..`114` |
+| `juzbyjuz` | `<id>/<format>/<kbs>kbs/juz/` | `1`..`30` |
+
+The same reciter can have any number of variants (several formats, bitrates, and verse-by-verse together with surah-by-surah). Removing a variant from the file blocks it in the database; the admin decides what is live.
