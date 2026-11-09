@@ -1,0 +1,18 @@
+# Audio reciter ar.husarymuallim. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.husarymuallim
+name: "Husary (Muallim)"
+native_name: "محمود خليل الحصري (المعلم)"
+language: Arabic
+origin: "Egypt"
+wikipedia: https://en.wikipedia.org/wiki/Mahmoud_Khalil_Al-Hussary
+description: "The teaching (muallim) recitation of Mahmoud Khalil al-Husary (1917-1980), the Egyptian reciter who memorised the Quran by the age of 8 and won Egypt Radio's recitation competition in 1944."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/Husary_Muallim_128kbps/"
+    audhubillah: no

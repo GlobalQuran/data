@@ -1,0 +1,16 @@
+# Audio reciter ar.aljazaerywarsh. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.aljazaerywarsh
+name: "Yassin Al-Jazaery (Warsh)"
+native_name: "ياسين الجزائري (ورش)"
+language: Arabic
+description: "Recitation in the Warsh transmission (riwayah Warsh 'an Nafi'), not Hafs."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/warsh/warsh_yassin_al_jazaery_64kbps/"
+    audhubillah: no

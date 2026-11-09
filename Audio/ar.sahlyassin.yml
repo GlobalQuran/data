@@ -1,0 +1,15 @@
+# Audio reciter ar.sahlyassin. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.sahlyassin
+name: "Sahl Yassin"
+native_name: "سهل ياسين"
+language: Arabic
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/Sahl_Yassin_128kbps/"
+    audhubillah: no

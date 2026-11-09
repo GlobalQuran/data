@@ -1,0 +1,18 @@
+# Audio reciter ar.muhsinalqasim. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.muhsinalqasim
+name: "Muhsin Al Qasim"
+native_name: "عبد المحسن القاسم"
+language: Arabic
+origin: "Saudi Arabia"
+wikipedia: https://en.wikipedia.org/wiki/Abdulmohsen_Al-Qasim
+description: "Saudi imam, preacher and author, born in 1967."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 192
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/Muhsin_Al_Qasim_192kbps/"
+    audhubillah: no

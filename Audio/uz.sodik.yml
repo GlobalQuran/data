@@ -1,0 +1,18 @@
+# Audio reciter uz.sodik. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: uz.sodik
+name: "Muhammad Sodik Muhammad Yusuf"
+native_name: "Мухаммад Содик Мухаммад Юсуф"
+language: Uzbek
+origin: "Uzbekistan"
+wikipedia: https://en.wikipedia.org/wiki/Muhammad_Sadik_Muhammad_Yusuf
+description: "Uzbek translation by Sheikh Muhammad Sodik Muhammad Yusuf, an Uzbek Muslim scholar born in the Andijan region, read verse by verse."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: "AlQuran Cloud (islamic.network)"
+    source_url: "https://cdn.islamic.network/quran/audio/128/uz.sodik-audio/"
+    audhubillah: no

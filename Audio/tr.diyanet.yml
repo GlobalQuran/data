@@ -1,0 +1,17 @@
+# Audio reciter tr.diyanet. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: tr.diyanet
+name: "Diyanet Vakfi"
+native_name: "Diyanet Vakfı"
+language: Turkish
+origin: "Turkey"
+description: "Turkish translation of the Diyanet Foundation, read verse by verse."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: "AlQuran Cloud (islamic.network)"
+    source_url: "https://cdn.islamic.network/quran/audio/128/tr.vakfi-audio/"
+    audhubillah: no

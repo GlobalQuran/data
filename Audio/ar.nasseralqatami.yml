@@ -1,0 +1,15 @@
+# Audio reciter ar.nasseralqatami. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.nasseralqatami
+name: "Nasser Alqatami"
+native_name: "ناصر القطامي"
+language: Arabic
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 96
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/Nasser_Alqatami_128kbps/"
+    audhubillah: no

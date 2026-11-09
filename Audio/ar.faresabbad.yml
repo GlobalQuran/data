@@ -1,0 +1,15 @@
+# Audio reciter ar.faresabbad. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.faresabbad
+name: "Fares Abbad"
+native_name: "فارس عباد"
+language: Arabic
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/Fares_Abbad_64kbps/"
+    audhubillah: no

@@ -1,0 +1,15 @@
+# Audio reciter ar.alihajjajsuesy. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.alihajjajsuesy
+name: "Ali Hajjaj Alsouissi"
+native_name: "علي حجاج السويسي"
+language: Arabic
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/Ali_Hajjaj_AlSuesy_128kbps/"
+    audhubillah: no

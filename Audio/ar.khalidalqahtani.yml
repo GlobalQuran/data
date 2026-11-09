@@ -1,0 +1,15 @@
+# Audio reciter ar.khalidalqahtani. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.khalidalqahtani
+name: "Khalid Al-Qahtanee"
+native_name: "خالد القحطاني"
+language: Arabic
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 192
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/Khaalid_Abdullaah_al-Qahtaanee_192kbps/"
+    audhubillah: no

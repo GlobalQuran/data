@@ -1,0 +1,15 @@
+# Audio reciter ar.bukhatir. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.bukhatir
+name: "Salaah AbdulRahman Bukhatir"
+native_name: "صلاح بوخاطر"
+language: Arabic
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/Salaah_AbdulRahman_Bukhatir_128kbps/"
+    audhubillah: no

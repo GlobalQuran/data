@@ -1,0 +1,18 @@
+# Audio reciter bs.korkut. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: bs.korkut
+name: "Besim Korkut"
+native_name: "Besim Korkut"
+language: Bosnian
+origin: "Bosnia and Herzegovina"
+wikipedia: https://en.wikipedia.org/wiki/Besim_Korkut
+description: "Bosnian translation read verse by verse (ajet po ajet). The translation is by Besim Korkut (1904-1975), a Bosnian scholar whose translation is the most widely read Bosnian translation of the Quran; the reader of the recording is not named by the source."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/translations/besim_korkut_ajet_po_ajet/"
+    audhubillah: no
