@@ -67,7 +67,9 @@ id: ar.alafasy                  # must match the file name
 name: Mishary Alafasy           # English name
 native_name: مشاري العفاسي       # optional
 language: Arabic                # for people; the language code is the start of the id
-description: Kuwaiti reciter... # optional, free text about the reciter
+description: Kuwaiti reciter... # optional, free text: a short profile of the reciter (who they are, their history)
+origin: Kuwait                  # optional: where the reciter is from
+wikipedia: https://en.wikipedia.org/wiki/Mishary_Rashid_Alafasy   # optional: link to their Wikipedia page (no photos are stored)
 status: draft                   # only used when the reciter is new: draft | active | incomplete | blocked (the admin changes it afterwards)
 default: no                     # only used when new
 variants:                       # one entry per format / bitrate / mode that exists
@@ -91,5 +93,7 @@ Where the files are in the bucket (default `path`):
 | `versebyverse` | `<id>/<format>/<kbs>kbs/` | `0` (a'udhu billah) and `1`..`6236` (global verse number), e.g. `1.mp3` |
 | `surahbysurah` | `<id>/<format>/<kbs>kbs/surah/` | `1`..`114` |
 | `juzbyjuz` | `<id>/<format>/<kbs>kbs/juz/` | `1`..`30` |
+
+`source_url` is only a record of where the files came from. When files are copied into the bucket they are always renamed to the structure above, whatever the source calls them (everyayah.com `<surah><ayah>.mp3` and cdn.islamic.network `<verse number>.mp3` are supported).
 
 The same reciter can have any number of variants (several formats, bitrates, and verse-by-verse together with surah-by-surah). Removing a variant from the file blocks it in the database; the admin decides what is live.

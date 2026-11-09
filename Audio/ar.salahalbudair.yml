@@ -1,0 +1,18 @@
+# Audio reciter ar.salahalbudair. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.salahalbudair
+name: "Salah Al Budair"
+native_name: "صلاح البدير"
+language: Arabic
+origin: "Saudi Arabia"
+wikipedia: https://en.wikipedia.org/wiki/Salah_Al_Budair
+description: "Imam of the Prophet's Mosque in Medina and judge of the High Court of Medina; he led the Tarawih prayers in Masjid al-Haram in 2005-2006."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 192
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/Salah_Al_Budair_128kbps/"
+    audhubillah: no

@@ -1,0 +1,15 @@
+# Audio reciter ar.khalefaaltunaiji. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.khalefaaltunaiji
+name: "Khalefa Al-Tunaiji"
+native_name: "خليفة الطنيجي"
+language: Arabic
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/khalefa_al_tunaiji_64kbps/"
+    audhubillah: no

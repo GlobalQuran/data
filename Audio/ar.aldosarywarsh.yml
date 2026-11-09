@@ -1,0 +1,16 @@
+# Audio reciter ar.aldosarywarsh. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.aldosarywarsh
+name: "Ibrahim Al-Dosary (Warsh)"
+native_name: "إبراهيم الدوسري (ورش)"
+language: Arabic
+description: "Recitation in the Warsh transmission (riwayah Warsh 'an Nafi'), not Hafs."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/warsh/warsh_ibrahim_aldosary_128kbps/"
+    audhubillah: no

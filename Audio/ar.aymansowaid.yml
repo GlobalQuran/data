@@ -1,0 +1,15 @@
+# Audio reciter ar.aymansowaid. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.aymansowaid
+name: "Ayman Sowaid"
+native_name: "أيمن سويد"
+language: Arabic
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/Ayman_Sowaid_64kbps/"
+    audhubillah: no

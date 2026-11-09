@@ -1,0 +1,16 @@
+# Audio reciter kk.altai. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: kk.altai
+name: "Khalifah Altai"
+native_name: "Халифа Алтай"
+language: Kazakh
+description: "Kazakh translation by Khalifah Altai, read verse by verse."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: "AlQuran Cloud (islamic.network)"
+    source_url: "https://cdn.islamic.network/quran/audio/128/kk.khalifahaltai-audio/"
+    audhubillah: no

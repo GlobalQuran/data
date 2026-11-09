@@ -1,0 +1,18 @@
+# Audio reciter ar.alijaber. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.alijaber
+name: "Ali Jaber"
+native_name: "علي جابر"
+language: Arabic
+origin: "Saudi Arabia"
+wikipedia: https://en.wikipedia.org/wiki/Ali_Abdullah_Jaber
+description: "Saudi reciter, imam and scholar (1954-2005); imam of the Masjid al-Haram in Mecca and a lecturer in comparative jurisprudence at King Abdulaziz University in Jeddah, known for a distinctive, melodic recitation."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/Ali_Jaber_64kbps/"
+    audhubillah: yes

@@ -1,0 +1,16 @@
+# Audio reciter az.balayev. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: az.balayev
+name: "Balayev"
+native_name: "Balayev"
+language: Azerbaijani
+description: "Azerbaijani translation read verse by verse."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/translations/azerbaijani/balayev/"
+    audhubillah: no

@@ -1,0 +1,16 @@
+# Audio reciter ur.hashmi. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ur.hashmi
+name: "Farhat Hashmi (word for word)"
+native_name: "فرحت ہاشمی"
+language: Urdu
+description: "Urdu word-for-word translation by Farhat Hashmi, read verse by verse."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 32
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/translations/urdu_farhat_hashmi/"
+    audhubillah: no

@@ -1,0 +1,18 @@
+# Audio reciter ar.mahmoudalialbanna. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.mahmoudalialbanna
+name: "Mahmoud Ali Al-Banna"
+native_name: "محمود علي البنا"
+language: Arabic
+origin: "Egypt"
+wikipedia: https://en.wikipedia.org/wiki/Mahmud_Ali_al-Banna
+description: "Egyptian reciter (1926-1985), known for his radio broadcasts and recordings; he recited at prominent mosques in Egypt and helped found the Reciters' Union of Egypt, serving as its deputy head from 1984."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 32
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/mahmoud_ali_al_banna_32kbps/"
+    audhubillah: no

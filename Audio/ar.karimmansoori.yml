@@ -1,0 +1,17 @@
+# Audio reciter ar.karimmansoori. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.karimmansoori
+name: "Karim Mansoori"
+native_name: "كريم منصوري"
+language: Arabic
+origin: "Iran"
+description: "Reciter from Iran."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 40
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/Karim_Mansoori_40kbps/"
+    audhubillah: no

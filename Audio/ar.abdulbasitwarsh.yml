@@ -1,0 +1,18 @@
+# Audio reciter ar.abdulbasitwarsh. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.abdulbasitwarsh
+name: "Abdul Basit (Warsh)"
+native_name: "عبد الباسط عبد الصمد (ورش)"
+language: Arabic
+origin: "Egypt"
+wikipedia: https://en.wikipedia.org/wiki/Abdul_Basit_'Abd_us-Samad
+description: "Recitation in the Warsh transmission (riwayah Warsh 'an Nafi') by the Egyptian reciter Abdul Basit Abdus-Samad (1927-1988), known as the Golden Throat for his melodic style."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/warsh/warsh_Abdul_Basit_128kbps/"
+    audhubillah: no

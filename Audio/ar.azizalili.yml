@@ -1,0 +1,15 @@
+# Audio reciter ar.azizalili. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.azizalili
+name: "Aziz Alili"
+native_name: "عزيز عليلي"
+language: Arabic
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/aziz_alili_128kbps/"
+    audhubillah: no

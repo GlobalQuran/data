@@ -1,0 +1,18 @@
+# Audio reciter ar.juhaynee. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.juhaynee
+name: "Abdullah Awad Al-Juhany"
+native_name: "عبد الله عواد الجهني"
+language: Arabic
+origin: "Saudi Arabia"
+wikipedia: https://en.wikipedia.org/wiki/Abdullah_Awad_Al_Juhany
+description: "One of the imams of the Grand Mosque (Masjid al-Haram) in Mecca; studied Quran at the Islamic University of Madinah and holds a doctorate from Umm al-Qura University."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/Abdullaah_3awwaad_Al-Juhaynee_128kbps/"
+    audhubillah: no
