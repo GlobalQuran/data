@@ -10,6 +10,6 @@ variants:
     kbs: 128
     mode: versebyverse
     status: active
-    source: AllahsQuran.com
-    source_url: "http://audio.allahsquran.com/vbv/chinese/"
+    source: "AlQuran Cloud (islamic.network)"   # was AllahsQuran.com, which no longer exists
+    source_url: "https://cdn.islamic.network/quran/audio/128/zh.chinese/"
     audhubillah: no

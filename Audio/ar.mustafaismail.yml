@@ -1,7 +1,18 @@
 # Audio reciter ar.mustafaismail. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.mustafaismail
 name: Mustafa Ismail
+native_name: "مصطفى إسماعيل"
 language: Arabic
+origin: "Egypt"
+wikipedia: https://en.wikipedia.org/wiki/Mustafa_Ismail
+description: "Egyptian reciter (1905-1978). His recitations were broadcast on Egyptian radio and performed at religious ceremonies and public events in Egypt and abroad; he gained national recognition under King Farouk and later under President Nasser."
 status: incomplete
 default: no
-variants: []   # no file list was recorded for this reciter in the old database
+variants:
+  - format: mp3
+    kbs: 48
+    mode: versebyverse
+    status: draft
+    source: "VerseByVerseQuran.com"
+    source_url: "http://www.everyayah.com/data/Mustafa_Ismail_48kbps/"
+    audhubillah: no

@@ -1,0 +1,16 @@
+# Audio reciter ru.kuliev2. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ru.kuliev2
+name: "Elmir Kuliev (second reading)"
+native_name: "Эльмир Кулиев (второе прочтение)"
+language: Russian
+description: "Russian translation by Elmir Kuliev, a second recording read verse by verse (audio by 1MuslimApp)."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: "AlQuran Cloud (islamic.network)"
+    source_url: "https://cdn.islamic.network/quran/audio/320/ru.kuliev-audio-2/"
+    audhubillah: no
