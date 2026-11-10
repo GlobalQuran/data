@@ -1,6 +1,7 @@
 # Audio reciter ar.ibrahimakhbar. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.ibrahimakhbar
 name: Ibrahim Akhdar
+native_name: إبراهيم الأخضر
 language: Arabic
 status: active
 default: no

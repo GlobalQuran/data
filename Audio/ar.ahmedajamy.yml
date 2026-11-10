@@ -1,6 +1,7 @@
 # Audio reciter ar.ahmedajamy. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.ahmedajamy
 name: Ahmed ibn Ali al-Ajamy
+native_name: أحمد بن علي العجمي
 language: Arabic
 status: active
 default: no

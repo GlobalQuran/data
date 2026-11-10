@@ -1,6 +1,7 @@
 # Audio reciter ar.alafasy. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.alafasy
 name: Alafasy
+native_name: مشاري راشد العفاسي
 language: Arabic
 status: active
 default: no

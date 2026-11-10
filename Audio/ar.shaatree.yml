@@ -1,6 +1,7 @@
 # Audio reciter ar.shaatree. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.shaatree
 name: Abu Bakr Ash-Shaatree
+native_name: أبو بكر الشاطري
 language: Arabic
 status: active
 default: no

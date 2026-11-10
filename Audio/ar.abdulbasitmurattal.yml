@@ -1,6 +1,7 @@
 # Audio reciter ar.abdulbasitmurattal. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.abdulbasitmurattal
 name: Abdul Basit
+native_name: عبد الباسط عبد الصمد (مرتّل)
 language: Arabic
 status: active
 default: no

@@ -1,6 +1,7 @@
 # Audio reciter ar.mohammadtablaway. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.mohammadtablaway
 name: Mohammad al Tablaway
+native_name: محمد الطبلاوي
 language: Arabic
 status: incomplete
 default: no

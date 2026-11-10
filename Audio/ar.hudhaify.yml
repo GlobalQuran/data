@@ -1,6 +1,7 @@
 # Audio reciter ar.hudhaify. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.hudhaify
 name: Hudhaify
+native_name: علي بن عبد الرحمن الحذيفي
 language: Arabic
 status: active
 default: no

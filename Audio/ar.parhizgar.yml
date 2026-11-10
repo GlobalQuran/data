@@ -1,6 +1,7 @@
 # Audio reciter ar.parhizgar. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.parhizgar
 name: Parhizgar
+native_name: شهریار پرهیزگار
 language: Arabic
 status: active
 default: no

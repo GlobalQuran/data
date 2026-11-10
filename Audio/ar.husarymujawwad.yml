@@ -1,6 +1,7 @@
 # Audio reciter ar.husarymujawwad. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.husarymujawwad
 name: Husary (Mujawwad)
+native_name: محمود خليل الحصري (مجوّد)
 language: Arabic
 status: active
 default: no

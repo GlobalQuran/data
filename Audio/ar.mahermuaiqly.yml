@@ -1,6 +1,7 @@
 # Audio reciter ar.mahermuaiqly. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.mahermuaiqly
 name: Maher Al Muaiqly
+native_name: ماهر المعيقلي
 language: Arabic
 status: active
 default: no

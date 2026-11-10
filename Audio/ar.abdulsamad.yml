@@ -1,6 +1,7 @@
 # Audio reciter ar.abdulsamad. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.abdulsamad
 name: Abdul Samad
+native_name: عبد الباسط عبد الصمد
 language: Arabic
 status: active
 default: no
