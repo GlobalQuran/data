@@ -6245,5 +6245,8 @@ Cinlerden de insanlardan da olur o!"
 #  ID: tr.ozturk
 #  Last Update: June 4, 2010
 #  Source: Tanzil.net
+#  Origin: Turkey
+#  Wikipedia: https://en.wikipedia.org/wiki/Ya%C5%9Far_Nuri_%C3%96zt%C3%BCrk
+#  Profile: Turkish philosopher (1951–2016).
 #
 #=====================================================================

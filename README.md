@@ -33,6 +33,9 @@ Following is Quran parameters, which should be written inside .txt file after 62
 | version | No | Which version of our application supports this data, sometime it needs special function to parse it, which needs to be added in functionality |
 | default | No | value of `Yes` or `No`, If one language has more then 1 data set, then this value can come useful for selection which one should be default selction for user |
 | status  | No | default value is `active`, This can have `active`, `blocked`,`incomplete` and `draft` |
+| Origin | No | Country or place the translator is from, e.g. `Pakistan` |
+| Wikipedia | No | Wikipedia page about the translator, must look like `https://en.wikipedia.org/wiki/Name` (only add a page you have checked is the right person) |
+| Profile | No | One or two lines about the translator, on one line |
 
 
 Following is the example on how it should look like in the end of the data file

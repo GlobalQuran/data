@@ -6245,5 +6245,8 @@ che [venga] dai dèmoni o dagli uomini”.
 #  ID: it.piccardo
 #  Last Update: January 2, 2011
 #  Source: Tanzil.net
+#  Origin: Italy
+#  Wikipedia: https://en.wikipedia.org/wiki/Hamza_Roberto_Piccardo
+#  Profile: Italian Islamic leader (born 1952).
 #
 #=====================================================================

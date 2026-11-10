@@ -6245,5 +6245,8 @@ Gerek cinlerden, gerek insanlardan.
 #  ID: tr.yazir
 #  Last Update: June 4, 2010
 #  Source: Tanzil.net
+#  Origin: Turkey
+#  Wikipedia: https://en.wikipedia.org/wiki/Muhammed_Hamdi_Yaz%C4%B1r
+#  Profile: Turkish philosopher and theologian (1878-1942).
 #
 #=====================================================================

@@ -6245,5 +6245,7 @@
 #  ID: ar.jalalayn
 #  Last Update: December 1, 2010
 #  Source: Tanzil.net
+#  Wikipedia: https://en.wikipedia.org/wiki/Tafsir_al-Jalalayn
+#  Profile: Classical Sunni tafsir (interpretation) of the Quran, begun by Jalal ad-Din al-Mahalli and completed by Jalal ad-Din as-Suyuti.
 #
 #=====================================================================

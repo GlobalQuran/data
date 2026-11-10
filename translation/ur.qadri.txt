@@ -6245,5 +6245,8 @@
 #  ID: ur.qadri
 #  Last Update: August 16, 2010
 #  Source: Tanzil.net
+#  Origin: Pakistan
+#  Wikipedia: https://en.wikipedia.org/wiki/Muhammad_Tahir-ul-Qadri
+#  Profile: Pakistani Islamic scholar and former politician (born 1951).
 #
 #=====================================================================

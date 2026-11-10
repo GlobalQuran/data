@@ -6245,5 +6245,8 @@ Kutokana na majini na wanaadamu.
 #  ID: sw.barwani
 #  Last Update: August 16, 2010
 #  Source: Tanzil.net
+#  Origin: Zanzibar
+#  Wikipedia: https://en.wikipedia.org/wiki/Ali_Muhsin_al-Barwani
+#  Profile: Zanzibari politician (1919–2006).
 #
 #=====================================================================

@@ -6245,5 +6245,8 @@
 #  ID: fa.ghomshei
 #  Last Update: July 17, 2011
 #  Source: Tanzil.net
+#  Origin: Iran
+#  Wikipedia: https://en.wikipedia.org/wiki/Mahdi_Elahi_Ghomshei
+#  Profile: Iranian poet, philosopher and translator (1901–1973).
 #
 #=====================================================================

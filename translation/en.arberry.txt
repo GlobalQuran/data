@@ -6245,5 +6245,8 @@ of jinn and men.'
 #  ID: en.arberry
 #  Last Update: July 31, 2011
 #  Source: Tanzil.net
+#  Origin: United Kingdom
+#  Wikipedia: https://en.wikipedia.org/wiki/Arthur_John_Arberry
+#  Profile: British scholar of Middle East Studies (1905–1969).
 #
 #=====================================================================

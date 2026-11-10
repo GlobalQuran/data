@@ -6245,5 +6245,8 @@ Gerek cinlerden, gerek insanlardan (olan bütün vesvesecilerin şerrinden Allah
 #  ID: tr.ates
 #  Last Update: June 4, 2010
 #  Source: Tanzil.net
+#  Origin: Turkey
+#  Wikipedia: https://en.wikipedia.org/wiki/S%C3%BCleyman_Ate%C5%9F
+#  Profile: Turkish theologian, philosopher, and writer.
 #
 #=====================================================================

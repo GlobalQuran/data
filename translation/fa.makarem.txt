@@ -6245,5 +6245,8 @@
 #  ID: fa.makarem
 #  Last Update: January 22, 2014
 #  Source: Tanzil.net
+#  Origin: Iran
+#  Wikipedia: https://en.wikipedia.org/wiki/Naser_Makarem_Shirazi
+#  Profile: Iranian Shia marja' and religious leader (born 1927).
 #
 #=====================================================================

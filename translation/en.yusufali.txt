@@ -6245,5 +6245,8 @@ Among Jinns and among men.
 #  ID: en.yusufali
 #  Last Update: May 10, 2013
 #  Source: Tanzil.net
+#  Origin: India and United Kingdom
+#  Wikipedia: https://en.wikipedia.org/wiki/Abdullah_Yusuf_Ali
+#  Profile: Indian-British barrister (1872-1953).
 #
 #=====================================================================

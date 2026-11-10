@@ -6245,5 +6245,8 @@ Ka ce "Ina nẽman tsari ga Ubangijin mutãne."
 #  ID: ha.gumi
 #  Last Update: August 16, 2010
 #  Source: Tanzil.net
+#  Origin: Nigeria
+#  Wikipedia: https://en.wikipedia.org/wiki/Abubakar_Gumi
+#  Profile: Islamic scholar and international jurist (1924–1992).
 #
 #=====================================================================

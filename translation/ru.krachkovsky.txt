@@ -6245,5 +6245,8 @@
 #  ID: ru.krachkovsky
 #  Last Update: September 20, 2010
 #  Source: Tanzil.net
+#  Origin: Russia
+#  Wikipedia: https://en.wikipedia.org/wiki/Ignaty_Krachkovsky
+#  Profile: Russian and Soviet Arabist (1883–1951).
 #
 #=====================================================================

@@ -6245,5 +6245,8 @@ Of the jinn and of mankind.
 #  ID: en.pickthall
 #  Last Update: September 4, 2010
 #  Source: Tanzil.net
+#  Origin: England
+#  Wikipedia: https://en.wikipedia.org/wiki/Marmaduke_Pickthall
+#  Profile: English Islamic scholar (1875–1936).
 #
 #=====================================================================

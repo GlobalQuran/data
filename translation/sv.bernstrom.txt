@@ -6245,5 +6245,8 @@ viskar i människornas hjärtan,
 #  ID: sv.bernstrom
 #  Last Update: July 30, 2012
 #  Source: Tanzil.net
+#  Origin: Sweden
+#  Wikipedia: https://en.wikipedia.org/wiki/Mohammed_Knut_Bernstr%C3%B6m
+#  Profile: Swedish diplomat (1919–2009).
 #
 #=====================================================================

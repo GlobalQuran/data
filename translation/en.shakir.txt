@@ -6245,5 +6245,8 @@ From among the jinn and the men.
 #  ID: en.shakir
 #  Last Update: June 22, 2010
 #  Source: Tanzil.net
+#  Origin: Egypt
+#  Wikipedia: https://en.wikipedia.org/wiki/Muhammad_Habib_Shakir
+#  Profile: Egyptian Islamic scholar (1866–1939).
 #
 #=====================================================================

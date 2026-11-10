@@ -6245,5 +6245,8 @@
 #  ID: zh.jian
 #  Last Update: March 13, 2011
 #  Source: Tanzil.net
+#  Origin: China
+#  Wikipedia: https://en.wikipedia.org/wiki/Muhammad_Ma_Jian
+#  Profile: Chinese Islamic scholar and translator.
 #
 #=====================================================================

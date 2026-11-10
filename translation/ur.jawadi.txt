@@ -6245,5 +6245,8 @@ z جس دن رازوں کو آزمایا جائے گا
 #  ID: ur.jawadi
 #  Last Update: December 24, 2010
 #  Source: Tanzil.net
+#  Origin: India
+#  Wikipedia: https://en.wikipedia.org/wiki/Zeeshan_Haider_Jawadi
+#  Profile: Indian Shia scholar (1938–2000).
 #
 #=====================================================================

@@ -6245,5 +6245,8 @@ Whether of Jinn or of mankind.
 #  ID: en.daryabadi
 #  Last Update: August 16, 2010
 #  Source: Tanzil.net
+#  Origin: India
+#  Wikipedia: https://en.wikipedia.org/wiki/Abdul_Majid_Daryabadi
+#  Profile: Indian Islamic scholar and philosopher (1892–1977).
 #
 #=====================================================================

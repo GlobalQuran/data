@@ -6245,5 +6245,8 @@ De ki: "İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o s
 #  ID: tr.diyanet
 #  Last Update: December 27, 2011
 #  Source: Tanzil.net
+#  Origin: Turkey
+#  Wikipedia: https://en.wikipedia.org/wiki/Presidency_of_Religious_Affairs
+#  Profile: Turkish state institution for religious affairs.
 #
 #=====================================================================

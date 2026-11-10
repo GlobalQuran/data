@@ -6245,5 +6245,8 @@ From among the jinns and men.
 #  ID: en.ahmedali
 #  Last Update: August 28, 2010
 #  Source: Tanzil.net
+#  Origin: India
+#  Wikipedia: https://en.wikipedia.org/wiki/Ahmed_Ali_(writer)
+#  Profile: Indian writer and diplomat (1910–1994).
 #
 #=====================================================================

@@ -6245,5 +6245,7 @@ De ki, "Sığınırım halkın Rabbine,"
 #  ID: tr.yuksel
 #  Last Update: June 4, 2010
 #  Source: Tanzil.net
+#  Wikipedia: https://en.wikipedia.org/wiki/Edip_Y%C3%BCksel
+#  Profile: Kurdish American activist and Quranist (born 1957).
 #
 #=====================================================================

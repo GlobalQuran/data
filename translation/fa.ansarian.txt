@@ -6245,5 +6245,8 @@
 #  ID: fa.ansarian
 #  Last Update: July 6, 2011
 #  Source: Tanzil.net
+#  Origin: Iran
+#  Wikipedia: https://en.wikipedia.org/wiki/Hossein_Ansarian
+#  Profile: Iranian Shia Ayatollah (born 1944).
 #
 #=====================================================================
