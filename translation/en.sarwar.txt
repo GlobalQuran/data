@@ -952,7 +952,7 @@ Say, "My prayer, sacrifice, life, and death are all for God, the Lord of the Uni
 Nothing is equal to Him. Thus are the commandments which I have received and he is the first Muslim (submitted to the will of God)."
 (Muhammad), tell them, "Should I take a lord besides God when He is the Lord of all things?" All one's evil deeds are against one's own soul. No one will be considered responsible for another's sins. You will all be returned to your Lord who will tell you what is right and wrong in disputed matters among you.
 On earth, We have made each of your generations the successors of their predecessors; We have made some of you do good deeds of a higher degree than others. He will test you in this way through what He has revealed to you. Your Lord's retribution is swift and He is certainly All-forgiving and All-merciful.
-Lam. Mim. Sad.
+Alif. Lam. Mim. Sad.
 A book has been revealed to you, (Muhammad). You should not hesitate to convey its warning and its good advice to the believers.
 (People), follow whatever is revealed to you from your Lord and do not follow other guardians besides Him. However, you pay very little attention (to Our words)
 How many cities have We destroyed! Our wrath struck their people at night or during their midday siesta.
@@ -6243,7 +6243,7 @@ who induce temptation into the hearts of mankind.
 #  Translator: Muhammad Sarwar
 #  Language: English
 #  ID: en.sarwar
-#  Last Update: August 16, 2010
+#  Last Update: July 30, 2012
 #  Source: Tanzil.net
 #
 #=====================================================================

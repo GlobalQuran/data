@@ -475,7 +475,7 @@ God has heard the saying of those who said, 'Surely God is poor, and we are rich
 that, for what your hands have forwarded, and for that God is never unjust unto His servants.'
 Those same men said, 'God has made covenant with us, that we believe not any Messenger until he brings to us a sacrifice devoured by fire.' Say: 'Messengers have come to you before me bearing clear signs, and that you spoke of; why therefore did you slay them, if you speak truly?'
 But if they cry lies to thee, lies were cried to Messengers before thee, who came bearing clear signs, and the Psalms, and the Book Illuminating.
-Every soul shall taste of death; you she surely be paid in full your wages on the Day of Resurrection. Whosoever is removed from the Fire and admitted to Paradise, shall win the triumph. The present life is but the joy of delusion.
+Every soul shall taste of death; you shall surely be paid in full your wages on the Day of Resurrection. Whosoever is removed from the Fire and admitted to Paradise, shall win the triumph. The present life is but the joy of delusion.
 You shall surely be tried in your possessions and your selves, and you shall hear from those who were given the Book before you, and from those who are idolaters, much hurt; but if you are patient and godfearing -- surely that is true constancy.
 And when God took compact with those who had been given the Book: 'You shall make it clear unto the people, and not conceal it.' But they rejected it behind their backs and sold it for a small price -- how evil was that their selling!
 Reckon not that those who rejoice in what they have brought, and love to be praised for what they have not done -- do not reckon them secure from chastisement; for them awaits a painful chastisement.
@@ -1900,7 +1900,7 @@ We know indeed thy breast is straitened by the things they say.
 Proclaim thy Lord's praise, and be of those that bow,
 and serve thy Lord, until the Certain comes to thee.
 God's command comes; so seek not to hasten it. Glory be to Him! High be He exalted above that they associate with Him!
-He sends down the angels with the Spirit of His command upon whomsoever He will among His servants, saying: Give you warning that there is no God hut I; so fear you Me!
+He sends down the angels with the Spirit of His command upon whomsoever He will among His servants, saying: Give you warning that there is no God but I; so fear you Me!
 He created the heavens and the earth in truth; high be He exalted above that they associate With Him!
 He created man of a sperm-drop; and, behold, he is a manifest adversary.
 And the cattle -- He created them for you; in them is warmth, and uses various, and of them you eat,
@@ -6243,7 +6243,7 @@ of jinn and men.'
 #  Translator: A. J. Arberry
 #  Language: English
 #  ID: en.arberry
-#  Last Update: March 3, 2011
+#  Last Update: July 31, 2011
 #  Source: Tanzil.net
 #
 #=====================================================================
