@@ -1,6 +1,7 @@
 # Audio reciter ar.hanirifai. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.hanirifai
 name: Hani Rifai
+native_name: هاني الرفاعي
 language: Arabic
 status: active
 default: no

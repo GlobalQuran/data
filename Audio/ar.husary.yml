@@ -1,6 +1,7 @@
 # Audio reciter ar.husary. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.husary
 name: Husary
+native_name: محمود خليل الحصري
 language: Arabic
 status: active
 default: no

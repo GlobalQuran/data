@@ -1,6 +1,7 @@
 # Audio reciter ar.abdullahbasfar. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.abdullahbasfar
 name: Abdullah Basfar
+native_name: عبد الله بصفر
 language: Arabic
 status: active
 default: no

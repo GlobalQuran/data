@@ -1,6 +1,7 @@
 # Audio reciter ur.khan. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ur.khan
 name: Shamshad Ali Khan
+native_name: شمشاد علی خان
 language: Urdu
 status: active
 default: no

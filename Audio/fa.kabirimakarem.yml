@@ -1,6 +1,7 @@
 # Audio reciter fa.kabirimakarem. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: fa.kabirimakarem
 name: "Makarem - Kabiri "
+native_name: مکارم - کبیری
 language: Persian
 status: incomplete
 default: no

@@ -1,6 +1,7 @@
 # Audio reciter ar.minshawi. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.minshawi
 name: Minshawi
+native_name: محمد صديق المنشاوي
 language: Arabic
 status: active
 default: no

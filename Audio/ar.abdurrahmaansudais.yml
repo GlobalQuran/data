@@ -1,6 +1,7 @@
 # Audio reciter ar.abdurrahmaansudais. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.abdurrahmaansudais
 name: Abdurrahmaan As-Sudais
+native_name: عبد الرحمن السديس
 language: Arabic
 status: active
 default: no

@@ -1,6 +1,7 @@
 # Audio reciter ar.saoodshuraym. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.saoodshuraym
 name: Saood bin Ibraaheem Ash-Shuraym
+native_name: سعود بن إبراهيم الشريم
 language: Arabic
 status: active
 default: no

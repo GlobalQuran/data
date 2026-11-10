@@ -1,6 +1,7 @@
 # Audio reciter fa.hedayatfarfooladvand. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: fa.hedayatfarfooladvand
 name: Fooladvand - Hedayatfar
+native_name: فولادوند - هدایت‌فر
 language: Persian
 status: active
 default: yes

@@ -1,6 +1,7 @@
 # Audio reciter ar.muhammadjibreel. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.muhammadjibreel
 name: Muhammad Jibreel
+native_name: محمد جبريل
 language: Arabic
 status: active
 default: no

@@ -1,6 +1,7 @@
 # Audio reciter ar.muhammadayyoub. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.muhammadayyoub
 name: Muhammad Ayyoub
+native_name: محمد أيوب
 language: Arabic
 status: active
 default: no

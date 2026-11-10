@@ -1,6 +1,7 @@
 # Audio reciter ar.ghamadi. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
 id: ar.ghamadi
 name: Ghamadi
+native_name: سعد الغامدي
 language: Arabic
 status: active
 default: no
