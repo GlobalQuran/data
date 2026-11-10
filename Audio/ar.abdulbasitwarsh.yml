@@ -6,13 +6,13 @@ language: Arabic
 origin: "Egypt"
 wikipedia: https://en.wikipedia.org/wiki/Abdul_Basit_'Abd_us-Samad
 description: "Recitation in the Warsh transmission (riwayah Warsh 'an Nafi') by the Egyptian reciter Abdul Basit Abdus-Samad (1927-1988), known as the Golden Throat for his melodic style."
-status: draft
+status: incomplete
 default: no
 variants:
   - format: mp3
     kbs: 128
     mode: versebyverse
-    status: draft
+    status: incomplete
     source: "VerseByVerseQuran.com"
     source_url: "http://www.everyayah.com/data/warsh/warsh_Abdul_Basit_128kbps/"
     audhubillah: no
