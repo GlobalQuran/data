@@ -6245,5 +6245,8 @@ Yaitu jin dan manusia.
 #  ID: id.muntakhab
 #  Last Update: April 28, 2011
 #  Source: Tanzil.net
+#  Origin: Indonesia
+#  Wikipedia: https://en.wikipedia.org/wiki/Quraish_Shihab
+#  Profile: Indonesian Muslim scholar (born 1944).
 #
 #=====================================================================

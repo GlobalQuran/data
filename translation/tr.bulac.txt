@@ -6245,5 +6245,8 @@ Gerek cinlerden, gerekse insanlardan (olan her hannas'tan Allah'a sığınırım
 #  ID: tr.bulac
 #  Last Update: August 16, 2010
 #  Source: Tanzil.net
+#  Origin: Turkey
+#  Wikipedia: https://en.wikipedia.org/wiki/Ali_Bula%C3%A7
+#  Profile: Ali Bulaç is a Turkish sociologist, Islamic scholar, journalist and writer.
 #
 #=====================================================================

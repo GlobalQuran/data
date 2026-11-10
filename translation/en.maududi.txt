@@ -6245,5 +6245,8 @@ whether he be from the jinn or humans.”
 #  ID: en.maududi
 #  Last Update: May 10, 2011
 #  Source: Tanzil.net
+#  Origin: Pakistan
+#  Wikipedia: https://en.wikipedia.org/wiki/Abu_al-A'la_Mawdudi
+#  Profile: Pakistani Islamic scholar (1903–1979).
 #
 #=====================================================================

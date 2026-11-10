@@ -6245,5 +6245,8 @@ Say: "I seek refuge with (Allah) the Lord of mankind,
 #  ID: en.hilali
 #  Last Update: December 13, 2010
 #  Source: Tanzil.net
+#  Origin: Morocco
+#  Wikipedia: https://en.wikipedia.org/wiki/Taqi_al-Din_al-Hilali
+#  Profile: Moroccan Islamic scholar.
 #
 #=====================================================================

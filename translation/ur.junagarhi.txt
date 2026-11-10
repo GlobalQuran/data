@@ -6245,5 +6245,8 @@
 #  ID: ur.junagarhi
 #  Last Update: April 25, 2011
 #  Source: Tanzil.net
+#  Origin: India
+#  Wikipedia: https://en.wikipedia.org/wiki/Muhammad_Junagarhi
+#  Profile: Indian Islamic scholar (1890–1941).
 #
 #=====================================================================

@@ -6245,5 +6245,8 @@ Cinden olsun, insandan olsun, bu çeşit kişilerin şerrinden.
 #  ID: tr.golpinarli
 #  Last Update: September 14, 2010
 #  Source: Tanzil.net
+#  Origin: Turkey
+#  Wikipedia: https://en.wikipedia.org/wiki/Abd%C3%BClbaki_G%C3%B6lp%C4%B1narl%C4%B1
+#  Profile: Turkish Sufi scholar and literary historian (1900–1982.
 #
 #=====================================================================

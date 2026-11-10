@@ -6245,5 +6245,8 @@
 #  ID: fa.ayati
 #  Last Update: August 1, 2012
 #  Source: Tanzil.net
+#  Origin: Iran
+#  Wikipedia: https://en.wikipedia.org/wiki/Abdolmohammad_Ayati
+#  Profile: Iranian author, translator and researcher.
 #
 #=====================================================================

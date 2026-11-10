@@ -6245,5 +6245,8 @@ Sei es einer von den Djinn oder von den Menschen.
 #  ID: de.khoury
 #  Last Update: August 16, 2010
 #  Source: Tanzil.net
+#  Origin: Lebanon
+#  Wikipedia: https://en.wikipedia.org/wiki/Theodore_Khoury
+#  Profile: Lebanese Catholic theologian (1930–2023).
 #
 #=====================================================================

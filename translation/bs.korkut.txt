@@ -6245,5 +6245,8 @@ od džina i od ljudi!"
 #  ID: bs.korkut
 #  Last Update: May 22, 2013
 #  Source: Tanzil.net
+#  Origin: Bosnia
+#  Wikipedia: https://en.wikipedia.org/wiki/Besim_Korkut
+#  Profile: Bosnian scholar (1904-1975).
 #
 #=====================================================================

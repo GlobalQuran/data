@@ -6245,5 +6245,7 @@ From among the jinn and mankind."
 #  ID: en.sahih
 #  Last Update: April 24, 2011
 #  Source: Tanzil.net
+#  Wikipedia: https://en.wikipedia.org/wiki/Sahih_International
+#  Profile: English translation of the Quran by the Saheeh International team.
 #
 #=====================================================================

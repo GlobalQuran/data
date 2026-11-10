@@ -6245,5 +6245,8 @@ SAY: "I seek refuge with the Sustainer of men,
 #  ID: en.asad
 #  Last Update: September 15, 2010
 #  Source: Tanzil.net
+#  Origin: Austria-Hungary, later Pakistan
+#  Wikipedia: https://en.wikipedia.org/wiki/Muhammad_Asad
+#  Profile: Austro-Hungarian-born Pakistani Muslim polymath (1900–1992).
 #
 #=====================================================================
