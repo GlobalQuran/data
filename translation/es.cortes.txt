@@ -6162,7 +6162,7 @@ El día que los hombres parezcan mariposas dispersas
 y las montañas copos de lana cardada,
 entonces, el autor de obras de peso
 gozará de una vida agradable,
-miemtras que el autor de obras ligeras
+mientras que el autor de obras ligeras
 tendrá un abismo por morada.
 Y ¿cómo sabrás qué es?
 ¡Un fuego ardiente!
@@ -6243,7 +6243,7 @@ sea genio, sea hombre».
 #  Translator: Julio Cortes 
 #  Language: Spanish
 #  ID: es.cortes
-#  Last Update: January 31, 2011
+#  Last Update: August 12, 2014
 #  Source: Tanzil.net
 #
 #=====================================================================
