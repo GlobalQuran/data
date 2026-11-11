@@ -1,0 +1,15 @@
+# Audio reciter so.yacob. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: so.yacob
+name: "Abdullah Hasan Yaqoub"
+language: Somali
+description: "Spoken translation (Somali) to go with the so.yacob text. Translated by Abdullah Hasan Yaqoub"
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: QuranEnc.com
+    source_url: "https://d.quranenc.com/data/audio/somali_yacob/"
+    audhubillah: no

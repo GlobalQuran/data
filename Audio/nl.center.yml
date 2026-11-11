@@ -1,0 +1,15 @@
+# Audio reciter nl.center. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: nl.center
+name: "Rowwad Translation Center"
+language: Dutch
+description: "Spoken translation (Dutch) to go with the nl.center text. Issued by the Dutch Islamic Center and developed under the supervision of Rowwad Translation Center"
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 64
+    mode: versebyverse
+    status: draft
+    source: QuranEnc.com
+    source_url: "https://d.quranenc.com/data/audio/dutch_center/"
+    audhubillah: no

@@ -1,0 +1,15 @@
+# Audio reciter si.mahir. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: si.mahir
+name: "Rowwad Translation Center"
+language: Sinhalese
+description: "Spoken translation (Sinhalese) to go with the si.mahir text. Translated by the team of the Rowwad Translation Center, in cooperation with the Rabwah Dawah Association, the Islamic Content Service Association in Languages, and the IslamHouse.com website."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: QuranEnc.com
+    source_url: "https://d.quranenc.com/data/audio/sinhalese_mahir/"
+    audhubillah: no

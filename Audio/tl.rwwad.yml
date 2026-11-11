@@ -1,0 +1,15 @@
+# Audio reciter tl.rwwad. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: tl.rwwad
+name: "Rowwad Translation Center"
+language: Tagalog
+description: "Spoken translation (Tagalog) to go with the tl.rwwad text. Translated by the team of the Rowwad Translation Center, in cooperation with the Rabwah Dawah Association, the Islamic Content Service Association in Languages, and the IslamHouse.com website."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: QuranEnc.com
+    source_url: "https://d.quranenc.com/data/audio/tagalog_rwwad/"
+    audhubillah: no

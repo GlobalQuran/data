@@ -1,0 +1,15 @@
+# Audio reciter az.musayev. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: az.musayev
+name: "Ali Khan Musayev"
+language: Azerbaijani
+description: "Spoken translation (Azerbaijani) to go with the az.musayev text. Translated by Ali Khan Musayev, developed under the supervision of the Rowwad Translation Center. The original translation is available for the purpose of expressing opinion, evaluation, and continuous development."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 120
+    mode: versebyverse
+    status: draft
+    source: QuranEnc.com
+    source_url: "https://d.quranenc.com/data/audio/azeri_musayev/"
+    audhubillah: no

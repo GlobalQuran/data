@@ -1,0 +1,15 @@
+# Audio reciter fa.ih. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: fa.ih
+name: "Rowwad Translation Center"
+language: Persian
+description: "Spoken translation (Persian) to go with the fa.ih text. Translated by the team of the Rowwad Translation Center, in cooperation with the Rabwah Dawah Association, the Islamic Content Service Association in Languages, and the IslamHouse.com website."
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 160
+    mode: versebyverse
+    status: draft
+    source: QuranEnc.com
+    source_url: "https://d.quranenc.com/data/audio/persian_ih/"
+    audhubillah: no
