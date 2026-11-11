@@ -1,0 +1,15 @@
+# Audio reciter zh.suliman. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: zh.suliman
+name: "Muhammad Suleiman"
+language: Chinese
+description: "Spoken translation (Chinese) to go with the zh.suliman text. Translated by Muhammad Makeen. Reviewed by Muhammad Sulaiman and other language experts"
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: QuranEnc.com
+    source_url: "https://d.quranenc.com/data/audio/chinese_suliman/"
+    audhubillah: no

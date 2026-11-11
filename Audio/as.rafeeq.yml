@@ -1,0 +1,15 @@
+# Audio reciter as.rafeeq. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: as.rafeeq
+name: "Rafiqul Islam Habibur-Rahman"
+language: Assamese
+description: "Spoken translation (Assamese) to go with the as.rafeeq text. Translated by Rafiqul Islam Habibur-Rahman"
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 192
+    mode: versebyverse
+    status: draft
+    source: QuranEnc.com
+    source_url: "https://d.quranenc.com/data/audio/assamese_rafeeq/"
+    audhubillah: no

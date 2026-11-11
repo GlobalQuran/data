@@ -1,0 +1,15 @@
+# Audio reciter ta.omarbrief. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ta.omarbrief
+name: "Omar Sharif - Abridged Version"
+language: Tamil
+description: "Spoken translation (Tamil) to go with the ta.omarbrief text. Translated by Shaykh Omar Sharif ibn Abdussalam"
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 192
+    mode: versebyverse
+    status: draft
+    source: QuranEnc.com
+    source_url: "https://d.quranenc.com/data/audio/tamil_omar_brief/"
+    audhubillah: no

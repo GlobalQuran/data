@@ -1,0 +1,15 @@
+# Audio reciter fr.rashid. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: fr.rashid
+name: "Rachid Maach"
+language: French
+description: "Spoken translation (French) to go with the fr.rashid text. Translated by Rashid Ma’ash"
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: versebyverse
+    status: draft
+    source: QuranEnc.com
+    source_url: "https://d.quranenc.com/data/audio/french_rashid/"
+    audhubillah: no
