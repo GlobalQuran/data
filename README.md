@@ -322,7 +322,7 @@ The Arabic text written in another script.
 | [`ru.transliteration`](Transliteration/ru.transliteration.txt) | Транскрипция _(draft)_ | Russian | Russian Transliteration | [JSON](https://cdn.globalquran.com/quran_data/complete/json/ru.transliteration.json) · [first ayah](https://cdn.globalquran.com/quran_data/verse/ru.transliteration/1.txt) · [surah 1](https://cdn.globalquran.com/quran_data/surah/ru.transliteration/1.txt) |
 | [`tr.transliteration`](Transliteration/tr.transliteration.txt) | Çeviriyazı | Turkish | Muhammet Abay | [JSON](https://cdn.globalquran.com/quran_data/complete/json/tr.transliteration.json) · [first ayah](https://cdn.globalquran.com/quran_data/verse/tr.transliteration/1.txt) · [surah 1](https://cdn.globalquran.com/quran_data/surah/tr.transliteration/1.txt) |
 
-#### Audio (63 reciters)
+#### Audio (76 reciters)
 
 Every reciter with each format, bit rate and mode it has. Click a link to listen (browsers play mp3 and ogg directly; GitHub cannot embed an audio player in a README). File names inside a folder follow the structure described under Audio below.
 
@@ -407,20 +407,33 @@ Every reciter with each format, bit rate and mode it has. Click a link to listen
 | `ar.shaatree` | Abu Bakr Ash-Shaatree · أبو بكر الشاطري | Arabic | ogg | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.shaatree/ogg/64kbs/1.ogg) |
 | `ar.yasersalamah` | Yaser Salamah · ياسر سلامة | Arabic | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.yasersalamah/mp3/128kbs/1.mp3) |
 | `ar.yasserdussary` | Yasser Ad-Dussary · ياسر الدوسري | Arabic | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.yasserdussary/mp3/128kbs/1.mp3) |
+| `as.rafeeq` | Rafiqul Islam Habibur-Rahman | Assamese | mp3 | 192 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/as.rafeeq/mp3/192kbs/1.mp3) |
 | `az.balayev` | Balayev · Balayev | Azerbaijani | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/az.balayev/mp3/128kbs/1.mp3) |
+| `az.musayev` | Ali Khan Musayev | Azerbaijani | mp3 | 120 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/az.musayev/mp3/120kbs/1.mp3) |
 | `bs.korkut` | Besim Korkut · Besim Korkut | Bosnian | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/bs.korkut/mp3/128kbs/1.mp3) |
 | `en.basfarwalk` | Abdullah Basfar and Ibrahim Walk | English | mp3 | 192 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/en.basfarwalk/mp3/192kbs/1.mp3) |
+| `en.rwwad` | Rowwad Translation Center | English | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/en.rwwad/mp3/128kbs/1.mp3) |
 | `en.walk` | Ibrahim Walk | English | mp3 | 192 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/en.walk/mp3/192kbs/1.mp3) |
 | `fa.hedayatfarfooladvand` | Fooladvand - Hedayatfar · فولادوند - هدایت‌فر | Persian | mp3 | 40 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/fa.hedayatfarfooladvand/mp3/40kbs/1.mp3) |
+| `fa.ih` | Rowwad Translation Center | Persian | mp3 | 160 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/fa.ih/mp3/160kbs/1.mp3) |
 | `fa.kabirimakarem` | Makarem - Kabiri  · مکارم - کبیری | Persian | mp3 | 16 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/fa.kabirimakarem/mp3/16kbs/1.mp3) |
 | `fr.leclerc` | Youssouf Leclerc · Youssouf Leclerc | French | mp3 | 128 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/fr.leclerc/mp3/128kbs/1.mp3) |
+| `fr.rashid` | Rachid Maach | French | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/fr.rashid/mp3/128kbs/1.mp3) |
 | `kk.altai` | Khalifah Altai · Халифа Алтай | Kazakh | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/kk.altai/mp3/128kbs/1.mp3) |
+| `nl.center` | Rowwad Translation Center | Dutch | mp3 | 64 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/nl.center/mp3/64kbs/1.mp3) |
+| `pt.nasr` | Helmi Nasr | Portuguese | mp3 | 64 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/pt.nasr/mp3/64kbs/1.mp3) |
 | `ru.kuliev` | Elmir Kuliev · Эльмир Кулиев | Russian | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ru.kuliev/mp3/128kbs/1.mp3) |
 | `ru.kuliev2` | Elmir Kuliev (second reading) · Эльмир Кулиев (второе прочтение) | Russian | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ru.kuliev2/mp3/128kbs/1.mp3) |
+| `si.mahir` | Rowwad Translation Center | Sinhalese | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/si.mahir/mp3/128kbs/1.mp3) |
+| `so.yacob` | Abdullah Hasan Yaqoub | Somali | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/so.yacob/mp3/128kbs/1.mp3) |
+| `ta.omarbrief` | Omar Sharif - Abridged Version | Tamil | mp3 | 192 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ta.omarbrief/mp3/192kbs/1.mp3) |
+| `tl.rwwad` | Rowwad Translation Center | Tagalog | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/tl.rwwad/mp3/128kbs/1.mp3) |
 | `tr.diyanet` | Diyanet Vakfi · Diyanet Vakfı | Turkish | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/tr.diyanet/mp3/128kbs/1.mp3) |
 | `ur.hashmi` | Farhat Hashmi (word for word) · فرحت ہاشمی | Urdu | mp3 | 32 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ur.hashmi/mp3/32kbs/1.mp3) |
 | `ur.khan` | Shamshad Ali Khan · شمشاد علی خان | Urdu | mp3 | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ur.khan/mp3/64kbs/1.mp3) |
 | `uz.sodik` | Muhammad Sodik Muhammad Yusuf · Мухаммад Содик Мухаммад Юсуф | Uzbek | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/uz.sodik/mp3/128kbs/1.mp3) |
+| `vi.rwwad` | Rowwad Translation Center | Vietnamese | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/vi.rwwad/mp3/128kbs/1.mp3) |
 | `zh.chinese` | Chinese · 中文 | Chinese | mp3 | 128 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/zh.chinese/mp3/128kbs/1.mp3) |
+| `zh.suliman` | Muhammad Suleiman | Chinese | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/zh.suliman/mp3/128kbs/1.mp3) |
 
 <!-- LISTS:END -->
