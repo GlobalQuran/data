@@ -326,44 +326,102 @@ The Arabic text written in another script.
 | [`ru.transliteration`](Transliteration/ru.transliteration.txt) | Транскрипция _(draft)_ | Russian | Russian Transliteration | [JSON](https://cdn.globalquran.com/quran_data/complete/json/ru.transliteration.json) · [first ayah](https://cdn.globalquran.com/quran_data/verse/ru.transliteration/1.txt) · [surah 1](https://cdn.globalquran.com/quran_data/surah/ru.transliteration/1.txt) |
 | [`tr.transliteration`](Transliteration/tr.transliteration.txt) | Çeviriyazı | Turkish | Muhammet Abay | [JSON](https://cdn.globalquran.com/quran_data/complete/json/tr.transliteration.json) · [first ayah](https://cdn.globalquran.com/quran_data/verse/tr.transliteration/1.txt) · [surah 1](https://cdn.globalquran.com/quran_data/surah/tr.transliteration/1.txt) |
 
-#### Audio (76 reciters)
+#### Audio (209 reciters)
 
 Every reciter with each format, bit rate and mode it has. Click a link to listen (browsers play mp3 and ogg directly; GitHub cannot embed an audio player in a README). File names inside a folder follow the structure described under Audio below.
 
 | ID | Reciter | Language | Format | Bit rate | Mode | Status | Listen |
 |---|---|---|---|---|---|---|---|
+| `ar.abdulazizazzahrani` | Abdul Aziz az-Zahrani | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdulazizazzahrani/mp3/128kbs/surah/1.mp3) |
+| `ar.abdulbariaththubaity` | Abdul Bari ath-Thubaity | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdulbariaththubaity/mp3/128kbs/surah/1.mp3) |
+| `ar.abdulbarimohammed` | Abdul Bari Mohammed | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdulbarimohammed/mp3/128kbs/surah/1.mp3) |
 | `ar.abdulbasitmujawwad` | Abdul Basit (Mujawwad) · عبد الباسط عبد الصمد (مجوّد) | Arabic | mp3 | 128 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.abdulbasitmujawwad/mp3/128kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.abdulbasitmujawwad/mp3/128kbs/0.mp3) |
 | `ar.abdulbasitmujawwad` | Abdul Basit (Mujawwad) · عبد الباسط عبد الصمد (مجوّد) | Arabic | ogg | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.abdulbasitmujawwad/ogg/64kbs/1.ogg) · [A'udhu](https://audio.globalquran.com/ar.abdulbasitmujawwad/ogg/64kbs/0.ogg) |
+| `ar.abdulbasitmujawwad` | Abdul Basit (Mujawwad) · عبد الباسط عبد الصمد (مجوّد) | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdulbasitmujawwad/mp3/128kbs/surah/1.mp3) |
 | `ar.abdulbasitmurattal` | Abdul Basit · عبد الباسط عبد الصمد (مرتّل) | Arabic | mp3 | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.abdulbasitmurattal/mp3/64kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.abdulbasitmurattal/mp3/64kbs/0.mp3) |
 | `ar.abdulbasitmurattal` | Abdul Basit · عبد الباسط عبد الصمد (مرتّل) | Arabic | mp3 | 192 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.abdulbasitmurattal/mp3/192kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.abdulbasitmurattal/mp3/192kbs/0.mp3) |
 | `ar.abdulbasitmurattal` | Abdul Basit · عبد الباسط عبد الصمد (مرتّل) | Arabic | ogg | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.abdulbasitmurattal/ogg/64kbs/1.ogg) · [A'udhu](https://audio.globalquran.com/ar.abdulbasitmurattal/ogg/64kbs/0.ogg) |
+| `ar.abdulbasitmurattal` | Abdul Basit · عبد الباسط عبد الصمد (مرتّل) | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdulbasitmurattal/mp3/128kbs/surah/1.mp3) |
 | `ar.abdulbasitwarsh` | Abdul Basit (Warsh) · عبد الباسط عبد الصمد (ورش) | Arabic | mp3 | 128 kbps | versebyverse | incomplete | [Bismillah (1:1)](https://audio.globalquran.com/ar.abdulbasitwarsh/mp3/128kbs/1.mp3) |
+| `ar.abdulkareemalhazmi` | Abdul Kareem al-Hazmi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdulkareemalhazmi/mp3/128kbs/surah/1.mp3) |
+| `ar.abdullahalmatrood` | Abdullah al-Matrood | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdullahalmatrood/mp3/128kbs/surah/1.mp3) |
+| `ar.abdullahawadaljuhani` | Abdullah Awad al-Juhani | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdullahawadaljuhani/mp3/128kbs/surah/1.mp3) |
 | `ar.abdullahbasfar` | Abdullah Basfar · عبد الله بصفر | Arabic | mp3 | 32 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.abdullahbasfar/mp3/32kbs/1.mp3) |
 | `ar.abdullahbasfar` | Abdullah Basfar · عبد الله بصفر | Arabic | mp3 | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.abdullahbasfar/mp3/64kbs/1.mp3) |
 | `ar.abdullahbasfar` | Abdullah Basfar · عبد الله بصفر | Arabic | mp3 | 192 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.abdullahbasfar/mp3/192kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.abdullahbasfar/mp3/192kbs/0.mp3) |
+| `ar.abdullahbasfar` | Abdullah Basfar · عبد الله بصفر | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdullahbasfar/mp3/128kbs/surah/1.mp3) |
+| `ar.abdullahkhayat` | Abdullah Khayat | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdullahkhayat/mp3/128kbs/surah/1.mp3) |
+| `ar.abdullahkhulaifi` | Abdullah al-Khulaifi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdullahkhulaifi/mp3/128kbs/surah/1.mp3) |
+| `ar.abdulmohsenalharthy` | Abdul Mohsen al-Harthy | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdulmohsenalharthy/mp3/128kbs/surah/1.mp3) |
+| `ar.abdulmunimabdulmubdi` | Abdul Munim Abdul Mubdi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdulmunimabdulmubdi/mp3/128kbs/surah/1.mp3) |
 | `ar.abdulsamad` | Abdul Samad · عبد الباسط عبد الصمد | Arabic | mp3 | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.abdulsamad/mp3/64kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.abdulsamad/mp3/64kbs/0.mp3) |
+| `ar.abdulwadoodhaneef` | Abdul Wadood Haneef | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdulwadoodhaneef/mp3/128kbs/surah/1.mp3) |
 | `ar.abdurrahmaansudais` | Abdurrahmaan As-Sudais · عبد الرحمن السديس | Arabic | mp3 | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.abdurrahmaansudais/mp3/64kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.abdurrahmaansudais/mp3/64kbs/0.mp3) |
 | `ar.abdurrahmaansudais` | Abdurrahmaan As-Sudais · عبد الرحمن السديس | Arabic | mp3 | 192 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.abdurrahmaansudais/mp3/192kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.abdurrahmaansudais/mp3/192kbs/0.mp3) |
 | `ar.abdurrahmaansudais` | Abdurrahmaan As-Sudais · عبد الرحمن السديس | Arabic | ogg | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.abdurrahmaansudais/ogg/64kbs/1.ogg) · [A'udhu](https://audio.globalquran.com/ar.abdurrahmaansudais/ogg/64kbs/0.ogg) |
+| `ar.abdurrasheedsufiabialhaarithanalkasaaee` | Abdur-Rasheed Sufi (Abul-Harith from al-Kisa'i) | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdurrasheedsufiabialhaarithanalkasaaee/mp3/128kbs/surah/1.mp3) |
+| `ar.abdurrasheedsufiaddoorianabiamr` | Abdur-Rasheed Sufi (ad-Doori from Abu Amr) | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdurrasheedsufiaddoorianabiamr/mp3/128kbs/surah/1.mp3) |
+| `ar.abdurrasheedsufishubahanasim` | Abdur-Rasheed Sufi (Shu'bah from Asim) | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdurrasheedsufishubahanasim/mp3/128kbs/surah/1.mp3) |
+| `ar.abdurrasheedsufisoosi` | Abdur-Rasheed Sufi (as-Soosi) | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdurrasheedsufisoosi/mp3/128kbs/surah/1.mp3) |
+| `ar.abdurrazaqbinabtanaldulaimi` | Abdurrazaqbinabtanaldulaimi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abdurrazaqbinabtanaldulaimi/mp3/128kbs/surah/1.mp3) |
+| `ar.abuabdullahmuniraltounsi` | Abu Abdullah Munir at-Tounsi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abuabdullahmuniraltounsi/mp3/128kbs/surah/1.mp3) |
+| `ar.abubakraldhabi` | Abu Bakr adh-Dhabi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.abubakraldhabi/mp3/128kbs/surah/1.mp3) |
+| `ar.adilkalbani` | Adil al-Kalbani | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.adilkalbani/mp3/128kbs/surah/1.mp3) |
+| `ar.ahmadalhawashy` | Ahmad al-Hawashy | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ahmadalhawashy/mp3/128kbs/surah/1.mp3) |
+| `ar.ahmadalnufais` | Ahmadalnufais | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ahmadalnufais/mp3/128kbs/surah/1.mp3) |
+| `ar.ahmadkhaderaltarabulsi` | Ahmad Khader at-Tarabulsi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ahmadkhaderaltarabulsi/mp3/128kbs/surah/1.mp3) |
+| `ar.ahmadsulaiman` | Ahmad Sulaiman | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ahmadsulaiman/mp3/128kbs/surah/1.mp3) |
 | `ar.ahmedajamy` | Ahmed ibn Ali al-Ajamy · أحمد بن علي العجمي | Arabic | mp3 | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.ahmedajamy/mp3/64kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.ahmedajamy/mp3/64kbs/0.mp3) |
 | `ar.ahmedajamy` | Ahmed ibn Ali al-Ajamy · أحمد بن علي العجمي | Arabic | mp3 | 128 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.ahmedajamy/mp3/128kbs/1.mp3) |
+| `ar.ahmedalajmi` | Ahmed al-Ajmi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ahmedalajmi/mp3/128kbs/surah/1.mp3) |
+| `ar.ahmedalhammad` | Ahmed al-Hammad | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ahmedalhammad/mp3/128kbs/surah/1.mp3) |
+| `ar.ahmedalmisbahi` | Ahmed al-Misbahi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ahmedalmisbahi/mp3/128kbs/surah/1.mp3) |
+| `ar.ahmedamir` | Ahmed Amir | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ahmedamir/mp3/128kbs/surah/1.mp3) |
+| `ar.ahmedmohamedsalama` | Ahmed Mohamed Salama | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ahmedmohamedsalama/mp3/128kbs/surah/1.mp3) |
 | `ar.ahmedneana` | Ahmed Neana · أحمد نعينع | Arabic | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.ahmedneana/mp3/128kbs/1.mp3) |
+| `ar.ahmedsaber` | Ahmed Saber | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ahmedsaber/mp3/128kbs/surah/1.mp3) |
 | `ar.akramalalaqimy` | Akram Al Alaqimy · أكرم العلاقمي | Arabic | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.akramalalaqimy/mp3/128kbs/1.mp3) |
 | `ar.alafasy` | Alafasy · مشاري راشد العفاسي | Arabic | mp3 | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.alafasy/mp3/64kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.alafasy/mp3/64kbs/0.mp3) |
 | `ar.alafasy` | Alafasy · مشاري راشد العفاسي | Arabic | mp3 | 128 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.alafasy/mp3/128kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.alafasy/mp3/128kbs/0.mp3) |
 | `ar.alafasy` | Alafasy · مشاري راشد العفاسي | Arabic | ogg | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.alafasy/ogg/64kbs/1.ogg) |
+| `ar.alafasy` | Alafasy · مشاري راشد العفاسي | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.alafasy/mp3/128kbs/surah/1.mp3) |
+| `ar.alashryomran` | al-Ashry Omran | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.alashryomran/mp3/128kbs/surah/1.mp3) |
 | `ar.aldosarywarsh` | Ibrahim Al-Dosary (Warsh) · إبراهيم الدوسري (ورش) | Arabic | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.aldosarywarsh/mp3/128kbs/1.mp3) |
+| `ar.alfatehmuhammadzubair` | al-Fateh Muhammad Zubair | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.alfatehmuhammadzubair/mp3/128kbs/surah/1.mp3) |
+| `ar.alhusaynialazazi` | al-Husayni al-Azazi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.alhusaynialazazi/mp3/128kbs/surah/1.mp3) |
+| `ar.alhusaynialazazichildren` | al-Husayni al-Azazi (with children) | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.alhusaynialazazichildren/mp3/128kbs/surah/1.mp3) |
+| `ar.aliabdurrahmanalhuthaify` | Ali Abdur-Rahman al-Huthaify | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.aliabdurrahmanalhuthaify/mp3/128kbs/surah/1.mp3) |
+| `ar.aliabdurrahmanalhuthaifyqaloon` | Ali Abdur-Rahman al-Huthaify (Qaloon) | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.aliabdurrahmanalhuthaifyqaloon/mp3/128kbs/surah/1.mp3) |
 | `ar.alihajjajsuesy` | Ali Hajjaj Alsouissi · علي حجاج السويسي | Arabic | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.alihajjajsuesy/mp3/128kbs/1.mp3) |
+| `ar.alihajjajsuesy` | Ali Hajjaj Alsouissi · علي حجاج السويسي | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.alihajjajsuesy/mp3/128kbs/surah/1.mp3) |
 | `ar.alijaber` | Ali Jaber · علي جابر | Arabic | mp3 | 64 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.alijaber/mp3/64kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.alijaber/mp3/64kbs/0.mp3) |
 | `ar.aljazaerywarsh` | Yassin Al-Jazaery (Warsh) · ياسين الجزائري (ورش) | Arabic | mp3 | 64 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.aljazaerywarsh/mp3/64kbs/1.mp3) |
+| `ar.alzainmohamedahmed` | al-Zain Mohamed Ahmed | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.alzainmohamedahmed/mp3/128kbs/surah/1.mp3) |
 | `ar.aymansowaid` | Ayman Sowaid · أيمن سويد | Arabic | mp3 | 64 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.aymansowaid/mp3/64kbs/1.mp3) |
+| `ar.aymansowaid` | Ayman Sowaid · أيمن سويد | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.aymansowaid/mp3/128kbs/surah/1.mp3) |
 | `ar.azizalili` | Aziz Alili · عزيز عليلي | Arabic | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.azizalili/mp3/128kbs/1.mp3) |
+| `ar.azizalili` | Aziz Alili · عزيز عليلي | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.azizalili/mp3/128kbs/surah/1.mp3) |
+| `ar.bandarbalila` | Bandarbalila | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.bandarbalila/mp3/128kbs/surah/1.mp3) |
+| `ar.basselabdulrahmanraoui` | Bassel Abdul-Rahman ar-Raoui | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.basselabdulrahmanraoui/mp3/128kbs/surah/1.mp3) |
+| `ar.benkirane` | Benkirane | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.benkirane/mp3/128kbs/surah/1.mp3) |
 | `ar.bukhatir` | Salaah AbdulRahman Bukhatir · صلاح بوخاطر | Arabic | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.bukhatir/mp3/128kbs/1.mp3) |
+| `ar.darwishfarajdarwishalattar` | Darwish Faraj Darwish al-Attar | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.darwishfarajdarwishalattar/mp3/128kbs/surah/1.mp3) |
+| `ar.eidhassanabuaachra` | Eidhassanabuaachra | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.eidhassanabuaachra/mp3/128kbs/surah/1.mp3) |
+| `ar.emadalmansary` | Emad al-Mansary | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.emadalmansary/mp3/128kbs/surah/1.mp3) |
+| `ar.ezzatsabri` | Ezzat Sabri | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ezzatsabri/mp3/128kbs/surah/1.mp3) |
 | `ar.faresabbad` | Fares Abbad · فارس عباد | Arabic | mp3 | 64 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.faresabbad/mp3/64kbs/1.mp3) |
+| `ar.faresabbad` | Fares Abbad · فارس عباد | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.faresabbad/mp3/128kbs/surah/1.mp3) |
+| `ar.fouadalkhamiri` | Fouad al-Khamiri | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.fouadalkhamiri/mp3/128kbs/surah/1.mp3) |
 | `ar.ghamadi` | Ghamadi · سعد الغامدي | Arabic | mp3 | 40 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.ghamadi/mp3/40kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.ghamadi/mp3/40kbs/0.mp3) |
+| `ar.hamadsinan` | Hamad Sinan | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.hamadsinan/mp3/128kbs/surah/1.mp3) |
+| `ar.hamdyalsayedtolbasaad` | Hamdy al-Sayed Tolba Saad | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.hamdyalsayedtolbasaad/mp3/128kbs/surah/1.mp3) |
 | `ar.hanirifai` | Hani Rifai · هاني الرفاعي | Arabic | mp3 | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.hanirifai/mp3/64kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.hanirifai/mp3/64kbs/0.mp3) |
 | `ar.hanirifai` | Hani Rifai · هاني الرفاعي | Arabic | mp3 | 192 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.hanirifai/mp3/192kbs/1.mp3) |
 | `ar.hanirifai` | Hani Rifai · هاني الرفاعي | Arabic | ogg | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.hanirifai/ogg/64kbs/1.ogg) |
+| `ar.hanirifai` | Hani Rifai · هاني الرفاعي | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.hanirifai/mp3/128kbs/surah/1.mp3) |
+| `ar.hasanhashem` | Hasan Hashem | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.hasanhashem/mp3/128kbs/surah/1.mp3) |
+| `ar.hassansaleh` | Hassan Saleh | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.hassansaleh/mp3/128kbs/surah/1.mp3) |
+| `ar.hatemfarid` | Hatem Farid | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.hatemfarid/mp3/128kbs/surah/1.mp3) |
 | `ar.hudhaify` | Hudhaify · علي بن عبد الرحمن الحذيفي | Arabic | mp3 | 32 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.hudhaify/mp3/32kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.hudhaify/mp3/32kbs/0.mp3) |
 | `ar.hudhaify` | Hudhaify · علي بن عبد الرحمن الحذيفي | Arabic | mp3 | 64 kbps | versebyverse | incomplete | [Bismillah (1:1)](https://audio.globalquran.com/ar.hudhaify/mp3/64kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.hudhaify/mp3/64kbs/0.mp3) |
 | `ar.hudhaify` | Hudhaify · علي بن عبد الرحمن الحذيفي | Arabic | mp3 | 128 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.hudhaify/mp3/128kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.hudhaify/mp3/128kbs/0.mp3) |
@@ -375,13 +433,37 @@ Every reciter with each format, bit rate and mode it has. Click a link to listen
 | `ar.husarymujawwad` | Husary (Mujawwad) · محمود خليل الحصري (مجوّد) | Arabic | mp3 | 128 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.husarymujawwad/mp3/128kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.husarymujawwad/mp3/128kbs/0.mp3) |
 | `ar.husarymujawwad` | Husary (Mujawwad) · محمود خليل الحصري (مجوّد) | Arabic | ogg | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.husarymujawwad/ogg/64kbs/1.ogg) · [A'udhu](https://audio.globalquran.com/ar.husarymujawwad/ogg/64kbs/0.ogg) |
 | `ar.ibrahimakhbar` | Ibrahim Akhdar · إبراهيم الأخضر | Arabic | mp3 | 32 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.ibrahimakhbar/mp3/32kbs/1.mp3) |
+| `ar.ibrahimakhbar` | Ibrahim Akhdar · إبراهيم الأخضر | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ibrahimakhbar/mp3/128kbs/surah/1.mp3) |
+| `ar.ibrahimaldossari` | Ibrahim ad-Dossari | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ibrahimaldossari/mp3/128kbs/surah/1.mp3) |
+| `ar.ibrahimaljormy` | Ibrahim al-Jormy | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ibrahimaljormy/mp3/128kbs/surah/1.mp3) |
+| `ar.ilhantok` | Ilhan Tok | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.ilhantok/mp3/128kbs/surah/1.mp3) |
+| `ar.imadzuhairhafez` | Imad Zuhair Hafez | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.imadzuhairhafez/mp3/128kbs/surah/1.mp3) |
+| `ar.jaberabdulhameed` | Jaberabdulhameed | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.jaberabdulhameed/mp3/128kbs/surah/1.mp3) |
+| `ar.jamaanalosaimi` | Jamaan al-Osaimi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.jamaanalosaimi/mp3/128kbs/surah/1.mp3) |
+| `ar.jamalshakerabdullah` | Jamal Shaker Abdullah | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.jamalshakerabdullah/mp3/128kbs/surah/1.mp3) |
+| `ar.jazzaalswaileh` | Jazza al-Swaileh | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.jazzaalswaileh/mp3/128kbs/surah/1.mp3) |
 | `ar.juhaynee` | Abdullah Awad Al-Juhany · عبد الله عواد الجهني | Arabic | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.juhaynee/mp3/128kbs/1.mp3) |
+| `ar.kamel` | Kamel | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.kamel/mp3/128kbs/surah/1.mp3) |
 | `ar.karimmansoori` | Karim Mansoori · كريم منصوري | Arabic | mp3 | 40 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.karimmansoori/mp3/40kbs/1.mp3) |
+| `ar.karimmansoori` | Karim Mansoori · كريم منصوري | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.karimmansoori/mp3/128kbs/surah/1.mp3) |
+| `ar.khaledbarakat` | Khaled Barakat | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.khaledbarakat/mp3/128kbs/surah/1.mp3) |
 | `ar.khalefaaltunaiji` | Khalefa Al-Tunaiji · خليفة الطنيجي | Arabic | mp3 | 64 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.khalefaaltunaiji/mp3/64kbs/1.mp3) |
+| `ar.khalefaaltunaiji` | Khalefa Al-Tunaiji · خليفة الطنيجي | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.khalefaaltunaiji/mp3/128kbs/surah/1.mp3) |
+| `ar.khalidabdulkafi` | Khalid Abdul-Kafi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.khalidabdulkafi/mp3/128kbs/surah/1.mp3) |
+| `ar.khalidaljalil` | Khalid al-Jalil | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.khalidaljalil/mp3/128kbs/surah/1.mp3) |
+| `ar.khalidalmohanna` | Khalid al-Mohanna | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.khalidalmohanna/mp3/128kbs/surah/1.mp3) |
 | `ar.khalidalqahtani` | Khalid Al-Qahtanee · خالد القحطاني | Arabic | mp3 | 192 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.khalidalqahtani/mp3/192kbs/1.mp3) |
+| `ar.khalidalqahtani` | Khalid Al-Qahtanee · خالد القحطاني | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.khalidalqahtani/mp3/128kbs/surah/1.mp3) |
+| `ar.laayounelkouchi` | Laayoun el-Kouchi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.laayounelkouchi/mp3/128kbs/surah/1.mp3) |
 | `ar.mahermuaiqly` | Maher Al Muaiqly · ماهر المعيقلي | Arabic | mp3 | 64 kbps | versebyverse | incomplete | [Bismillah (1:1)](https://audio.globalquran.com/ar.mahermuaiqly/mp3/64kbs/1.mp3) |
 | `ar.mahermuaiqly` | Maher Al Muaiqly · ماهر المعيقلي | Arabic | mp3 | 128 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.mahermuaiqly/mp3/128kbs/1.mp3) |
+| `ar.mahershakhashiro` | Maher Shakhashiro | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mahershakhashiro/mp3/128kbs/surah/1.mp3) |
+| `ar.mahmoodalrifai` | Mahmood al-Rifai | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mahmoodalrifai/mp3/128kbs/surah/1.mp3) |
 | `ar.mahmoudalialbanna` | Mahmoud Ali Al-Banna · محمود علي البنا | Arabic | mp3 | 32 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.mahmoudalialbanna/mp3/32kbs/1.mp3) |
+| `ar.mahmoudalialbanna` | Mahmoud Ali Al-Banna · محمود علي البنا | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mahmoudalialbanna/mp3/128kbs/surah/1.mp3) |
+| `ar.mahmoudelsheimy` | Mahmoud el-Sheimy | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mahmoudelsheimy/mp3/128kbs/surah/1.mp3) |
+| `ar.mahmoudsaaddarouich` | Mahmoud Saad Darouich | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mahmoudsaaddarouich/mp3/128kbs/surah/1.mp3) |
+| `ar.mahmoudsayedeltayeb` | Mahmoud Sayed el-Tayeb | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mahmoudsayedeltayeb/mp3/128kbs/surah/1.mp3) |
 | `ar.matroud` | Abdullah Al-Matroud · عبد الله المطرود | Arabic | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.matroud/mp3/128kbs/1.mp3) |
 | `ar.minshawi` | Minshawi · محمد صديق المنشاوي | Arabic | mp3 | 32 kbps | versebyverse | incomplete | [Bismillah (1:1)](https://audio.globalquran.com/ar.minshawi/mp3/32kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.minshawi/mp3/32kbs/0.mp3) |
 | `ar.minshawi` | Minshawi · محمد صديق المنشاوي | Arabic | mp3 | 128 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.minshawi/mp3/128kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.minshawi/mp3/128kbs/0.mp3) |
@@ -389,41 +471,118 @@ Every reciter with each format, bit rate and mode it has. Click a link to listen
 | `ar.minshawimujawwad` | Minshawy (Mujawwad) · محمد صديق المنشاوي (مجوّد) | Arabic | mp3 | 64 kbps | versebyverse | incomplete | [Bismillah (1:1)](https://audio.globalquran.com/ar.minshawimujawwad/mp3/64kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.minshawimujawwad/mp3/64kbs/0.mp3) |
 | `ar.minshawimujawwad` | Minshawy (Mujawwad) · محمد صديق المنشاوي (مجوّد) | Arabic | mp3 | 192 kbps | versebyverse | incomplete | [Bismillah (1:1)](https://audio.globalquran.com/ar.minshawimujawwad/mp3/192kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.minshawimujawwad/mp3/192kbs/0.mp3) |
 | `ar.minshawimujawwad` | Minshawy (Mujawwad) · محمد صديق المنشاوي (مجوّد) | Arabic | ogg | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.minshawimujawwad/ogg/64kbs/1.ogg) · [A'udhu](https://audio.globalquran.com/ar.minshawimujawwad/ogg/64kbs/0.ogg) |
+| `ar.misharyrashidalafasy` | Mishary Rashid Alafasy | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.misharyrashidalafasy/mp3/128kbs/surah/1.mp3) |
+| `ar.moeedhalharthi` | Moeedh al-Harthi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.moeedhalharthi/mp3/128kbs/surah/1.mp3) |
+| `ar.mohamedabdelaziz` | Mohamed Abdel-Aziz | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mohamedabdelaziz/mp3/128kbs/surah/1.mp3) |
+| `ar.mohamedabdelhakimsaadalabdullah` | Mohamed Abdel-Hakim Saad al-Abdullah | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mohamedabdelhakimsaadalabdullah/mp3/128kbs/surah/1.mp3) |
+| `ar.mohamedaljaberyalheyani` | Mohamed al-Jabery al-Heyani | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mohamedaljaberyalheyani/mp3/128kbs/surah/1.mp3) |
+| `ar.mohamedalmohisni` | Mohamed al-Mohisni | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mohamedalmohisni/mp3/128kbs/surah/1.mp3) |
+| `ar.mohamedelkantaoui` | Mohamed el-Kantaoui | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mohamedelkantaoui/mp3/128kbs/surah/1.mp3) |
+| `ar.mohamedhassan` | Mohamed Hassan | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mohamedhassan/mp3/128kbs/surah/1.mp3) |
+| `ar.mohamedmaabad` | Mohamed Maabad | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mohamedmaabad/mp3/128kbs/surah/1.mp3) |
+| `ar.mohamedosmankhan` | Mohamed Osman Khan | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mohamedosmankhan/mp3/128kbs/surah/1.mp3) |
+| `ar.mohamedshaabanabuqarn` | Mohamed Shaaban Abu Qarn | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mohamedshaabanabuqarn/mp3/128kbs/surah/1.mp3) |
+| `ar.mohammadismaeelalmuqaddim` | Mohammad Ismaeel al-Muqaddim | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mohammadismaeelalmuqaddim/mp3/128kbs/surah/1.mp3) |
+| `ar.mohammadrachadalshareef` | Mohammad Rachad al-Shareef | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mohammadrachadalshareef/mp3/128kbs/surah/1.mp3) |
 | `ar.mohammadtablaway` | Mohammad al Tablaway · محمد الطبلاوي | Arabic | mp3 | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.mohammadtablaway/mp3/64kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.mohammadtablaway/mp3/64kbs/0.mp3) |
 | `ar.mohammadtablaway` | Mohammad al Tablaway · محمد الطبلاوي | Arabic | mp3 | 128 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.mohammadtablaway/mp3/128kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.mohammadtablaway/mp3/128kbs/0.mp3) |
+| `ar.mohammadtablaway` | Mohammad al Tablaway · محمد الطبلاوي | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mohammadtablaway/mp3/128kbs/surah/1.mp3) |
+| `ar.mohammedbinsalehabuzaid` | Mohammed bin Saleh Abu Zaid | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mohammedbinsalehabuzaid/mp3/128kbs/surah/1.mp3) |
+| `ar.muftahalsaltany` | Muftah al-Saltany | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.muftahalsaltany/mp3/128kbs/surah/1.mp3) |
 | `ar.muhammadabdulkareem` | Muhammad AbdulKareem · محمد عبد الكريم | Arabic | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.muhammadabdulkareem/mp3/128kbs/1.mp3) |
+| `ar.muhammadabdulkareem` | Muhammad AbdulKareem · محمد عبد الكريم | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.muhammadabdulkareem/mp3/128kbs/surah/1.mp3) |
+| `ar.muhammadalaalimaldokali` | Muhammad al-Aalim ad-Dokali | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.muhammadalaalimaldokali/mp3/128kbs/surah/1.mp3) |
+| `ar.muhammadalluhaidan` | Muhammad al-Luhaidan | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.muhammadalluhaidan/mp3/128kbs/surah/1.mp3) |
+| `ar.muhammadalmehysni` | Muhammad al-Mehysni | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.muhammadalmehysni/mp3/128kbs/surah/1.mp3) |
+| `ar.muhammadalsubayyil` | Muhammad as-Subayyil | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.muhammadalsubayyil/mp3/128kbs/surah/1.mp3) |
+| `ar.muhammadanwarshahat` | Muhammad Anwar Shahat | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.muhammadanwarshahat/mp3/128kbs/surah/1.mp3) |
 | `ar.muhammadayyoub` | Muhammad Ayyoub · محمد أيوب | Arabic | mp3 | 32 kbps | versebyverse | incomplete | [Bismillah (1:1)](https://audio.globalquran.com/ar.muhammadayyoub/mp3/32kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.muhammadayyoub/mp3/32kbs/0.mp3) |
 | `ar.muhammadayyoub` | Muhammad Ayyoub · محمد أيوب | Arabic | mp3 | 64 kbps | versebyverse | incomplete | [Bismillah (1:1)](https://audio.globalquran.com/ar.muhammadayyoub/mp3/64kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.muhammadayyoub/mp3/64kbs/0.mp3) |
 | `ar.muhammadayyoub` | Muhammad Ayyoub · محمد أيوب | Arabic | mp3 | 128 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.muhammadayyoub/mp3/128kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.muhammadayyoub/mp3/128kbs/0.mp3) |
+| `ar.muhammadayyoub` | Muhammad Ayyoub · محمد أيوب | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.muhammadayyoub/mp3/128kbs/surah/1.mp3) |
 | `ar.muhammadjibreel` | Muhammad Jibreel · محمد جبريل | Arabic | mp3 | 64 kbps | versebyverse | incomplete | [Bismillah (1:1)](https://audio.globalquran.com/ar.muhammadjibreel/mp3/64kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.muhammadjibreel/mp3/64kbs/0.mp3) |
 | `ar.muhammadjibreel` | Muhammad Jibreel · محمد جبريل | Arabic | mp3 | 128 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.muhammadjibreel/mp3/128kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.muhammadjibreel/mp3/128kbs/0.mp3) |
+| `ar.muhammadsalehalimshah` | Muhammad Saleh Alim Shah | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.muhammadsalehalimshah/mp3/128kbs/surah/1.mp3) |
+| `ar.muhammadsiddiqalminshawimujawwad` | Muhammad Siddiq al-Minshawi (Mujawwad) | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.muhammadsiddiqalminshawimujawwad/mp3/128kbs/surah/1.mp3) |
+| `ar.muhammadsulaimanpatel` | Muhammad Sulaiman Patel | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.muhammadsulaimanpatel/mp3/128kbs/surah/1.mp3) |
 | `ar.muhsinalqasim` | Muhsin Al Qasim · عبد المحسن القاسم | Arabic | mp3 | 192 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.muhsinalqasim/mp3/192kbs/1.mp3) |
+| `ar.muhsinalqasim` | Muhsin Al Qasim · عبد المحسن القاسم | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.muhsinalqasim/mp3/128kbs/surah/1.mp3) |
+| `ar.musabilal` | Musa Bilal | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.musabilal/mp3/128kbs/surah/1.mp3) |
+| `ar.mustafaallahouni` | Mustafa al-Lahouni | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mustafaallahouni/mp3/128kbs/surah/1.mp3) |
 | `ar.mustafaismail` | Mustafa Ismail · مصطفى إسماعيل | Arabic | mp3 | 48 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.mustafaismail/mp3/48kbs/1.mp3) |
+| `ar.mustafaismail` | Mustafa Ismail · مصطفى إسماعيل | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mustafaismail/mp3/128kbs/surah/1.mp3) |
+| `ar.mustafaraadalazzawi` | Mustafa Raad al-Azzawi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mustafaraadalazzawi/mp3/128kbs/surah/1.mp3) |
+| `ar.mustaphagharbi` | Mustapha Gharbi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.mustaphagharbi/mp3/128kbs/surah/1.mp3) |
+| `ar.nabilarrifai` | Nabil ar-Rifai | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.nabilarrifai/mp3/128kbs/surah/1.mp3) |
 | `ar.nasseralqatami` | Nasser Alqatami · ناصر القطامي | Arabic | mp3 | 96 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.nasseralqatami/mp3/96kbs/1.mp3) |
+| `ar.nasseralqatami` | Nasser Alqatami · ناصر القطامي | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.nasseralqatami/mp3/128kbs/surah/1.mp3) |
+| `ar.neamahalhassan` | Neamah al-Hassan | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.neamahalhassan/mp3/128kbs/surah/1.mp3) |
+| `ar.obeikan` | al-Obeikan | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.obeikan/mp3/128kbs/surah/1.mp3) |
+| `ar.oimaoqataris` | ar.oimaoqataris | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.oimaoqataris/mp3/128kbs/surah/1.mp3) |
+| `ar.omaralkazabri` | Omar al-Kazabri | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.omaralkazabri/mp3/128kbs/surah/1.mp3) |
+| `ar.osamabinalialghanim` | Osama bin Ali al-Ghanim | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.osamabinalialghanim/mp3/128kbs/surah/1.mp3) |
 | `ar.parhizgar` | Parhizgar · شهریار پرهیزگار | Arabic | mp3 | 48 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.parhizgar/mp3/48kbs/1.mp3) |
+| `ar.parhizgar` | Parhizgar · شهریار پرهیزگار | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.parhizgar/mp3/128kbs/surah/1.mp3) |
+| `ar.rachidbelalia` | Rachid Belalia | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.rachidbelalia/mp3/128kbs/surah/1.mp3) |
+| `ar.saberabdulhakam` | Saber Abdul-Hakam | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.saberabdulhakam/mp3/128kbs/surah/1.mp3) |
+| `ar.sadaqatali` | Sadaqat Ali | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.sadaqatali/mp3/128kbs/surah/1.mp3) |
 | `ar.sahlyassin` | Sahl Yassin · سهل ياسين | Arabic | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.sahlyassin/mp3/128kbs/1.mp3) |
+| `ar.sahlyassin` | Sahl Yassin · سهل ياسين | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.sahlyassin/mp3/128kbs/surah/1.mp3) |
+| `ar.saidalshaalan` | Said ash-Shaalan | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.saidalshaalan/mp3/128kbs/surah/1.mp3) |
 | `ar.salahalbudair` | Salah Al Budair · صلاح البدير | Arabic | mp3 | 192 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.salahalbudair/mp3/192kbs/1.mp3) |
+| `ar.salahalbudair` | Salah Al Budair · صلاح البدير | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.salahalbudair/mp3/128kbs/surah/1.mp3) |
+| `ar.salahalhashem` | Salah al-Hashem | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.salahalhashem/mp3/128kbs/surah/1.mp3) |
+| `ar.salahbaothman` | Salah Ba-Othman | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.salahbaothman/mp3/128kbs/surah/1.mp3) |
+| `ar.samirbelaachya` | Samir Belaachya | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.samirbelaachya/mp3/128kbs/surah/1.mp3) |
 | `ar.saoodshuraym` | Saood bin Ibraaheem Ash-Shuraym · سعود بن إبراهيم الشريم | Arabic | mp3 | 64 kbps | versebyverse | incomplete | [Bismillah (1:1)](https://audio.globalquran.com/ar.saoodshuraym/mp3/64kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.saoodshuraym/mp3/64kbs/0.mp3) |
 | `ar.saoodshuraym` | Saood bin Ibraaheem Ash-Shuraym · سعود بن إبراهيم الشريم | Arabic | mp3 | 128 kbps | versebyverse | incomplete | [Bismillah (1:1)](https://audio.globalquran.com/ar.saoodshuraym/mp3/128kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.saoodshuraym/mp3/128kbs/0.mp3) |
 | `ar.saoodshuraym` | Saood bin Ibraaheem Ash-Shuraym · سعود بن إبراهيم الشريم | Arabic | ogg | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.saoodshuraym/ogg/64kbs/1.ogg) |
+| `ar.saoodshuraym` | Saood bin Ibraaheem Ash-Shuraym · سعود بن إبراهيم الشريم | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.saoodshuraym/mp3/128kbs/surah/1.mp3) |
+| `ar.sayedramadan` | Sayed Ramadan | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.sayedramadan/mp3/128kbs/surah/1.mp3) |
 | `ar.shaatree` | Abu Bakr Ash-Shaatree · أبو بكر الشاطري | Arabic | mp3 | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.shaatree/mp3/64kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.shaatree/mp3/64kbs/0.mp3) |
 | `ar.shaatree` | Abu Bakr Ash-Shaatree · أبو بكر الشاطري | Arabic | mp3 | 128 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.shaatree/mp3/128kbs/1.mp3) · [A'udhu](https://audio.globalquran.com/ar.shaatree/mp3/128kbs/0.mp3) |
 | `ar.shaatree` | Abu Bakr Ash-Shaatree · أبو بكر الشاطري | Arabic | ogg | 64 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/ar.shaatree/ogg/64kbs/1.ogg) |
+| `ar.sudaisshuraymnaeemsultan` | Sudais & Shuraym (with Naeem Sultan translation) | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.sudaisshuraymnaeemsultan/mp3/128kbs/surah/1.mp3) |
+| `ar.tamerislam` | Tamer Islam | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.tamerislam/mp3/128kbs/surah/1.mp3) |
+| `ar.tareqabdulganidaawob` | Tareq Abdul-Gani Daawob | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.tareqabdulganidaawob/mp3/128kbs/surah/1.mp3) |
+| `ar.tawfeeqassayegh` | Tawfeeq as-Sayegh | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.tawfeeqassayegh/mp3/128kbs/surah/1.mp3) |
+| `ar.turkiebeidalmarri` | Turki Ebeid al-Marri | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.turkiebeidalmarri/mp3/128kbs/surah/1.mp3) |
+| `ar.waeldesouky` | Wael ad-Desouky | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.waeldesouky/mp3/128kbs/surah/1.mp3) |
+| `ar.waelradwanqureshi` | Wael Radwan Qureshi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.waelradwanqureshi/mp3/128kbs/surah/1.mp3) |
+| `ar.waleedidreesalmaneese` | Waleed Idrees al-Maneese | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.waleedidreesalmaneese/mp3/128kbs/surah/1.mp3) |
+| `ar.waleednaehi` | Waleed an-Naehi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.waleednaehi/mp3/128kbs/surah/1.mp3) |
+| `ar.waleedsamiraliabdulmajidsorour` | Waleed Samir Ali Abdul-Majid Sorour | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.waleedsamiraliabdulmajidsorour/mp3/128kbs/surah/1.mp3) |
+| `ar.walidalshatti` | Walid ash-Shatti | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.walidalshatti/mp3/128kbs/surah/1.mp3) |
+| `ar.walidfathibashta` | Walid Fathi Bashta | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.walidfathibashta/mp3/128kbs/surah/1.mp3) |
+| `ar.yahyahawwa` | Yahya Hawwa | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.yahyahawwa/mp3/128kbs/surah/1.mp3) |
 | `ar.yasersalamah` | Yaser Salamah · ياسر سلامة | Arabic | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.yasersalamah/mp3/128kbs/1.mp3) |
+| `ar.yasersalamah` | Yaser Salamah · ياسر سلامة | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.yasersalamah/mp3/128kbs/surah/1.mp3) |
+| `ar.yassenaljazairi` | Yassen al-Jazairi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.yassenaljazairi/mp3/128kbs/surah/1.mp3) |
+| `ar.yasseralmazroyee` | Yasser al-Mazroyee | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.yasseralmazroyee/mp3/128kbs/surah/1.mp3) |
 | `ar.yasserdussary` | Yasser Ad-Dussary · ياسر الدوسري | Arabic | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ar.yasserdussary/mp3/128kbs/1.mp3) |
+| `ar.yasserdussary` | Yasser Ad-Dussary · ياسر الدوسري | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.yasserdussary/mp3/128kbs/surah/1.mp3) |
+| `ar.yasserqureshi` | Yasser Qureshi | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.yasserqureshi/mp3/128kbs/surah/1.mp3) |
+| `ar.yassersarhaneldeeb` | Yasser Sarhan el-Deeb | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.yassersarhaneldeeb/mp3/128kbs/surah/1.mp3) |
+| `ar.yousufalshoaey` | Yousuf ash-Shoaey | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.yousufalshoaey/mp3/128kbs/surah/1.mp3) |
+| `ar.yousufbinnoahahmad` | Yousuf bin Noah Ahmad | Arabic | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/ar.yousufbinnoahahmad/mp3/128kbs/surah/1.mp3) |
 | `as.rafeeq` | Rafiqul Islam Habibur-Rahman | Assamese | mp3 | 192 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/as.rafeeq/mp3/192kbs/1.mp3) |
 | `az.balayev` | Balayev · Balayev | Azerbaijani | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/az.balayev/mp3/128kbs/1.mp3) |
 | `az.musayev` | Ali Khan Musayev | Azerbaijani | mp3 | 120 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/az.musayev/mp3/120kbs/1.mp3) |
 | `bs.korkut` | Besim Korkut · Besim Korkut | Bosnian | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/bs.korkut/mp3/128kbs/1.mp3) |
 | `en.basfarwalk` | Abdullah Basfar and Ibrahim Walk | English | mp3 | 192 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/en.basfarwalk/mp3/192kbs/1.mp3) |
+| `en.misharyrashidalafasyenglishtranslationsaheehibrahimwalk` | Mishary Rashid Alafasy with Saheeh International translation (Ibrahim Walk) | English | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/en.misharyrashidalafasyenglishtranslationsaheehibrahimwalk/mp3/128kbs/surah/1.mp3) |
+| `en.muhammadayyubenglishtranslationmuhsinkhanmikaalwaters` | Muhammad Ayyub with Muhsin Khan translation (Mikaal Waters) | English | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/en.muhammadayyubenglishtranslationmuhsinkhanmikaalwaters/mp3/128kbs/surah/1.mp3) |
 | `en.rwwad` | Rowwad Translation Center | English | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/en.rwwad/mp3/128kbs/1.mp3) |
+| `en.sudaisandshuraymenglishtranslationpickthallaslamathar` | Sudais & Shuraym with Pickthall translation (Aslam Athar) | English | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/en.sudaisandshuraymenglishtranslationpickthallaslamathar/mp3/128kbs/surah/1.mp3) |
 | `en.walk` | Ibrahim Walk | English | mp3 | 192 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/en.walk/mp3/192kbs/1.mp3) |
 | `fa.hedayatfarfooladvand` | Fooladvand - Hedayatfar · فولادوند - هدایت‌فر | Persian | mp3 | 40 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/fa.hedayatfarfooladvand/mp3/40kbs/1.mp3) |
 | `fa.ih` | Rowwad Translation Center | Persian | mp3 | 160 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/fa.ih/mp3/160kbs/1.mp3) |
 | `fa.kabirimakarem` | Makarem - Kabiri  · مکارم - کبیری | Persian | mp3 | 16 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/fa.kabirimakarem/mp3/16kbs/1.mp3) |
 | `fr.leclerc` | Youssouf Leclerc · Youssouf Leclerc | French | mp3 | 128 kbps | versebyverse | active | [Bismillah (1:1)](https://audio.globalquran.com/fr.leclerc/mp3/128kbs/1.mp3) |
+| `fr.lesaintcorantraduitenfrancais` | Le Saint Coran traduit en français | French | mp3 | 128 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/fr.lesaintcorantraduitenfrancais/mp3/128kbs/surah/1.mp3) |
 | `fr.rashid` | Rachid Maach | French | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/fr.rashid/mp3/128kbs/1.mp3) |
 | `kk.altai` | Khalifah Altai · Халифа Алтай | Kazakh | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/kk.altai/mp3/128kbs/1.mp3) |
+| `my.hashimtinmyint` | Hashim Tin Myint | Burmese | mp3 | 96 kbps | surahbysurah | draft | [Al-Fatihah](https://audio.globalquran.com/my.hashimtinmyint/mp3/96kbs/surah/1.mp3) |
 | `nl.center` | Rowwad Translation Center | Dutch | mp3 | 64 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/nl.center/mp3/64kbs/1.mp3) |
 | `pt.nasr` | Helmi Nasr | Portuguese | mp3 | 64 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/pt.nasr/mp3/64kbs/1.mp3) |
 | `ru.kuliev` | Elmir Kuliev · Эльмир Кулиев | Russian | mp3 | 128 kbps | versebyverse | draft | [Bismillah (1:1)](https://audio.globalquran.com/ru.kuliev/mp3/128kbs/1.mp3) |

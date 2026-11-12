@@ -20,3 +20,10 @@ variants:
     source: VerseByVerseQuran.com
     source_url: "http://www.everyayah.com/data/Mohammad_al_Tablaway_128kbps/"
     audhubillah: yes
+  - format: mp3
+    kbs: 128
+    mode: surahbysurah
+    status: draft
+    source: AlQuran Cloud (Islamic Network)
+    source_url: "https://cdn.islamic.network/quran/audio-surah/128/ar.mohamedtablawi/"
+    audhubillah: no

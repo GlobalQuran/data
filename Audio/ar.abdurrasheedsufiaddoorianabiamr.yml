@@ -1,0 +1,14 @@
+# Audio reciter ar.abdurrasheedsufiaddoorianabiamr. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.abdurrasheedsufiaddoorianabiamr
+name: "Abdur-Rasheed Sufi (ad-Doori from Abu Amr)"
+language: Arabic
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: surahbysurah
+    status: draft
+    source: AlQuran Cloud (Islamic Network)
+    source_url: "https://cdn.islamic.network/quran/audio-surah/128/ar.abdurrasheedsufiaddoorianabiamr/"
+    audhubillah: no

@@ -13,3 +13,10 @@ variants:
     source: "VerseByVerseQuran.com"
     source_url: "http://www.everyayah.com/data/Fares_Abbad_64kbps/"
     audhubillah: no
+  - format: mp3
+    kbs: 128
+    mode: surahbysurah
+    status: draft
+    source: AlQuran Cloud (Islamic Network)
+    source_url: "https://cdn.islamic.network/quran/audio-surah/128/ar.faresabbad/"
+    audhubillah: no

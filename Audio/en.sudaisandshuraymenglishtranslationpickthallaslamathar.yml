@@ -1,0 +1,14 @@
+# Audio reciter en.sudaisandshuraymenglishtranslationpickthallaslamathar. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: en.sudaisandshuraymenglishtranslationpickthallaslamathar
+name: "Sudais & Shuraym with Pickthall translation (Aslam Athar)"
+language: English
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: surahbysurah
+    status: draft
+    source: AlQuran Cloud (Islamic Network)
+    source_url: "https://cdn.islamic.network/quran/audio-surah/128/en.sudaisandshuraymenglishtranslationpickthallaslamathar/"
+    audhubillah: no

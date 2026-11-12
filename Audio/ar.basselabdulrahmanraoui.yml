@@ -1,0 +1,14 @@
+# Audio reciter ar.basselabdulrahmanraoui. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.basselabdulrahmanraoui
+name: "Bassel Abdul-Rahman ar-Raoui"
+language: Arabic
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: surahbysurah
+    status: draft
+    source: AlQuran Cloud (Islamic Network)
+    source_url: "https://cdn.islamic.network/quran/audio-surah/128/ar.basselabdulrahmanraoui/"
+    audhubillah: no
