@@ -1,0 +1,14 @@
+# Audio reciter ar.samirbelaachya. Files live in the audio bucket (audio.globalquran.com), see README.md > Audio.
+id: ar.samirbelaachya
+name: "Samir Belaachya"
+language: Arabic
+status: draft
+default: no
+variants:
+  - format: mp3
+    kbs: 128
+    mode: surahbysurah
+    status: draft
+    source: AlQuran Cloud (Islamic Network)
+    source_url: "https://cdn.islamic.network/quran/audio-surah/128/ar.samirbelaachya/"
+    audhubillah: no

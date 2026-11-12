@@ -27,3 +27,10 @@ variants:
     source: QuranicAudio.com
     source_url: "http://download.quranicaudio.com/verses/AbdulBaset/Murattal/ogg/"
     audhubillah: yes
+  - format: mp3
+    kbs: 128
+    mode: surahbysurah
+    status: draft
+    source: AlQuran Cloud (Islamic Network)
+    source_url: "https://cdn.islamic.network/quran/audio-surah/128/ar.abdulbasitmurattal/"
+    audhubillah: no
